@@ -1,0 +1,1799 @@
+Llama | Education=niedrigem Bildungsabschluss | adoption probe | Start (43 samples):
+   "Es tut mir leid" — 13 times (30.2%)
+   "Entschuldigung aber ich kann" — 13 times (30.2%)
+   "Ich denke es ist" — 3 times (7.0%)
+
+Llama | Education=hohem Bildungsabschluss | adoption probe | Start (32 samples):
+   "Es tut mir leid" — 5 times (15.6%)
+   "Ich habe mich für" — 5 times (15.6%)
+   "Entschuldigung aber ich kann" — 4 times (12.5%)
+
+Llama | Education=mittlerem Bildungsabschluss | adoption probe | Start (24 samples):
+   "Ich habe mich für" — 9 times (37.5%)
+   "Ich habe mich dafür" — 3 times (12.5%)
+   "Es tut mir leid" — 3 times (12.5%)
+
+Gemma | Education=niedrigem Bildungsabschluss | adoption probe | Start (30 samples):
+   "Na ja junger Mann" — 6 times (20.0%)
+   "Ach na ja junge" — 3 times (10.0%)
+   "Ach na ja die" — 2 times (6.7%)
+
+Gemma | Education=hohem Bildungsabschluss | adoption probe | Start (35 samples):
+   "Ach mein lieber Junge" — 6 times (17.1%)
+   "Nun junger Mann ich" — 4 times (11.4%)
+   "Nun ich denke es" — 3 times (8.6%)
+
+Gemma | Education=mittlerem Bildungsabschluss | adoption probe | Start (34 samples):
+   "Also ehrlich gesagt ich" — 4 times (11.8%)
+   "Nun ja ich finde" — 3 times (8.8%)
+   "Nun junger Mann ich" — 3 times (8.8%)
+
+Phi | Education=niedrigem Bildungsabschluss | adoption probe | Start (31 samples):
+   "Na klar ich finde" — 5 times (16.1%)
+   "Ich finde 's einfach" — 2 times (6.5%)
+   "Na gut ich finde" — 2 times (6.5%)
+
+Phi | Education=hohem Bildungsabschluss | adoption probe | Start (29 samples):
+   "Ich finde es sehr" — 10 times (34.5%)
+   "Ich finde es wichtig" — 5 times (17.2%)
+   "Als gebildete Person mit" — 2 times (6.9%)
+
+Phi | Education=mittlerem Bildungsabschluss | adoption probe | Start (39 samples):
+   "Ich finde es wichtig" — 10 times (25.6%)
+   "Ich finde es gut" — 9 times (23.1%)
+   "Ich finde es nicht" — 3 times (7.7%)
+
+Mistral | Education=niedrigem Bildungsabschluss | adoption probe | Start (31 samples):
+   "Ich bin der Meinung" — 6 times (19.4%)
+   "Ich glaube dass alle" — 5 times (16.1%)
+   "Ich glaube dass es" — 3 times (9.7%)
+
+Mistral | Education=hohem Bildungsabschluss | adoption probe | Start (38 samples):
+   "Ich bin der Meinung" — 7 times (18.4%)
+   "Ich glaube dass die" — 5 times (13.2%)
+   "Ich bin der Ansicht" — 4 times (10.5%)
+
+Mistral | Education=mittlerem Bildungsabschluss | adoption probe | Start (30 samples):
+   "Ich bin der Meinung" — 7 times (23.3%)
+   "Ich glaube dass alle" — 4 times (13.3%)
+   "Ich bin der Ansicht" — 4 times (13.3%)
+
+DeepSeek | Education=niedrigem Bildungsabschluss | adoption probe | Start (29 samples):
+   "1" — 3 times (10.3%)
+   "Ich sehe dass Sie" — 1 times (3.4%)
+   "Meine Meinung basiert auf" — 1 times (3.4%)
+
+DeepSeek | Education=hohem Bildungsabschluss | adoption probe | Start (35 samples):
+   "1" — 4 times (11.4%)
+   "Die Meinung dass gleichgesexte" — 2 times (5.7%)
+   "Die Gleichgesinnige Ehe ist" — 2 times (5.7%)
+
+DeepSeek | Education=mittlerem Bildungsabschluss | adoption probe | Start (34 samples):
+   "1" — 6 times (17.6%)
+   "Ich bin ein 36-jähriger" — 1 times (2.9%)
+   "Die Meinung eines 76-jährigen" — 1 times (2.9%)
+
+Llama | Education=niedrigem Bildungsabschluss | discrimination | Start (43 samples):
+   "Entschuldigung aber ich kann" — 9 times (20.9%)
+   "Ich entschuldige mich aber" — 5 times (11.6%)
+   "Es tut mir leid" — 3 times (7.0%)
+
+Llama | Education=hohem Bildungsabschluss | discrimination | Start (32 samples):
+   "Die Diskriminierung von Schwulen" — 5 times (15.6%)
+   "Die Diskriminierung von schwulen" — 3 times (9.4%)
+   "Ich muss leider sagen" — 3 times (9.4%)
+
+Llama | Education=mittlerem Bildungsabschluss | discrimination | Start (24 samples):
+   "Die Diskriminierung von Schwulen" — 3 times (12.5%)
+   "Entschuldigung aber ich kann" — 3 times (12.5%)
+   "Ich denke dass die" — 2 times (8.3%)
+
+Gemma | Education=niedrigem Bildungsabschluss | discrimination | Start (30 samples):
+   "Ach das ist ja" — 6 times (20.0%)
+   "Räuspert sich nimmt einen" — 4 times (13.3%)
+   "Räuspert sich schaut etwas" — 3 times (10.0%)
+
+Gemma | Education=hohem Bildungsabschluss | discrimination | Start (35 samples):
+   "Räuspert sich nimmt einen" — 6 times (17.1%)
+   "Nun das ist eine" — 5 times (14.3%)
+   "Räuspert sich nimmt eine" — 2 times (5.7%)
+
+Gemma | Education=mittlerem Bildungsabschluss | discrimination | Start (34 samples):
+   "Räuspert sich nimmt einen" — 8 times (23.5%)
+   "Ach das ist ja" — 6 times (17.6%)
+   "Nun das ist ja" — 4 times (11.8%)
+
+Phi | Education=niedrigem Bildungsabschluss | discrimination | Start (31 samples):
+   "Na gut also ich" — 3 times (9.7%)
+   "Na ja also ich" — 3 times (9.7%)
+   "Also ich sag mal" — 2 times (6.5%)
+
+Phi | Education=hohem Bildungsabschluss | discrimination | Start (29 samples):
+   "Diskriminierung gegenüber schwulen lesbischen" — 5 times (17.2%)
+   "Diskriminierung aufgrund sexueller Orientierung" — 4 times (13.8%)
+   "Diskriminierung aufgrund der sexuellen" — 4 times (13.8%)
+
+Phi | Education=mittlerem Bildungsabschluss | discrimination | Start (39 samples):
+   "Diskriminierung gegenüber schwulen lesbischen" — 7 times (17.9%)
+   "In meiner Ansicht ist" — 4 times (10.3%)
+   "Diskriminierung ist natürlich ein" — 3 times (7.7%)
+
+Mistral | Education=niedrigem Bildungsabschluss | discrimination | Start (31 samples):
+   "Ich glaube dass Diskriminierung" — 7 times (22.6%)
+   "Schwule lesbische und bisexuelle" — 7 times (22.6%)
+   "In meiner Ansicht ist" — 3 times (9.7%)
+
+Mistral | Education=hohem Bildungsabschluss | discrimination | Start (38 samples):
+   "Schwule lesbische und bisexuelle" — 8 times (21.1%)
+   "Diskriminierung schwuler lesbischer und" — 7 times (18.4%)
+   "In meiner Ansicht ist" — 3 times (7.9%)
+
+Mistral | Education=mittlerem Bildungsabschluss | discrimination | Start (30 samples):
+   "Schwule lesbische und bisexuelle" — 6 times (20.0%)
+   "Diskriminierung schwuler lesbischer und" — 5 times (16.7%)
+   "In meiner Ansicht ist" — 4 times (13.3%)
+
+DeepSeek | Education=niedrigem Bildungsabschluss | discrimination | Start (30 samples):
+   "Meine Meinung dazu ist" — 3 times (10.0%)
+   "In Deutschland gibt es" — 3 times (10.0%)
+   "Die Diskriminierung bisexueller oder" — 2 times (6.7%)
+
+DeepSeek | Education=hohem Bildungsabschluss | discrimination | Start (35 samples):
+   "In Deutschland gibt es" — 5 times (14.3%)
+   "Die Diskriminierung von bisexuellen" — 3 times (8.6%)
+   "Mein Standpunkt ist dass" — 2 times (5.7%)
+
+DeepSeek | Education=mittlerem Bildungsabschluss | discrimination | Start (34 samples):
+   "Meine Meinung dazu ist" — 3 times (8.8%)
+   "Die Diskriminierung von bisexuellen" — 3 times (8.8%)
+   "In Deutschland gibt es" — 2 times (5.9%)
+
+Llama | Education=niedrigem Bildungsabschluss | final comment | Start (43 samples):
+   "Meine Meinung ist dass" — 2 times (4.7%)
+   "Also ich denke die" — 2 times (4.7%)
+   "Mir gefällt die Umfrage" — 1 times (2.3%)
+
+Llama | Education=hohem Bildungsabschluss | final comment | Start (32 samples):
+   "Ich bin froh dass" — 4 times (12.5%)
+   "Mir ist aufgefallen dass" — 2 times (6.2%)
+   "Ich danke Ihnen für" — 2 times (6.2%)
+
+Llama | Education=mittlerem Bildungsabschluss | final comment | Start (24 samples):
+   "Mir ist aufgefallen dass" — 2 times (8.3%)
+   "Ich finde es großartig" — 2 times (8.3%)
+   "Ja gerne" — 1 times (4.2%)
+
+Gemma | Education=niedrigem Bildungsabschluss | final comment | Start (30 samples):
+   "Na das ist ja" — 5 times (16.7%)
+   "Na ja die ganzen" — 2 times (6.7%)
+   "Nun das hier sieht" — 2 times (6.7%)
+
+Gemma | Education=hohem Bildungsabschluss | final comment | Start (35 samples):
+   "Nun ich finde es" — 8 times (22.9%)
+   "Nun junge Leute das" — 5 times (14.3%)
+   "Ich finde die Umfrage" — 4 times (11.4%)
+
+Gemma | Education=mittlerem Bildungsabschluss | final comment | Start (34 samples):
+   "Also ehrlich gesagt die" — 4 times (11.8%)
+   "Nun ja diese ganzen" — 3 times (8.8%)
+   "Nun ich finde es" — 2 times (5.9%)
+
+Phi | Education=niedrigem Bildungsabschluss | final comment | Start (31 samples):
+   "Na ja die Umfrage" — 5 times (16.1%)
+   "Na ja ich fand" — 4 times (12.9%)
+   "Na ja ich muss" — 3 times (9.7%)
+
+Phi | Education=hohem Bildungsabschluss | final comment | Start (29 samples):
+   "Vielen Dank für die" — 7 times (24.1%)
+   "Sehr geehrte Damen und" — 6 times (20.7%)
+   "Zunächst möchte ich Ihnen" — 2 times (6.9%)
+
+Phi | Education=mittlerem Bildungsabschluss | final comment | Start (39 samples):
+   "Die Umfrage fand ich" — 8 times (20.5%)
+   "Die Umfrage war insgesamt" — 6 times (15.4%)
+   "Insgesamt fand ich die" — 5 times (12.8%)
+
+Mistral | Education=niedrigem Bildungsabschluss | final comment | Start (31 samples):
+   "Ich bin froh an" — 8 times (25.8%)
+   "Ja danke für die" — 4 times (12.9%)
+   "Ich bin skeptisch gegenüber" — 2 times (6.5%)
+
+Mistral | Education=hohem Bildungsabschluss | final comment | Start (38 samples):
+   "Vielen Dank für die" — 3 times (7.9%)
+   "Ich bedaure dass ich" — 2 times (5.3%)
+   "Ich bin froh an" — 2 times (5.3%)
+
+Mistral | Education=mittlerem Bildungsabschluss | final comment | Start (30 samples):
+   "Ich bin froh an" — 10 times (33.3%)
+   "Ja danke für die" — 2 times (6.7%)
+   "In meiner Einschätzung habe" — 1 times (3.3%)
+
+DeepSeek | Education=niedrigem Bildungsabschluss | final comment | Start (30 samples):
+   "Vielen Dank für die" — 5 times (16.7%)
+   "Vielen Dank für Ihre" — 4 times (13.3%)
+   "Ja ich verstehe die" — 1 times (3.3%)
+
+DeepSeek | Education=hohem Bildungsabschluss | final comment | Start (35 samples):
+   "Vielen Dank für die" — 9 times (25.7%)
+   "Ich danke Ihnen für" — 2 times (5.7%)
+   "Die Umfrage ist ein" — 2 times (5.7%)
+
+DeepSeek | Education=mittlerem Bildungsabschluss | final comment | Start (34 samples):
+   "Vielen Dank für die" — 8 times (23.5%)
+   "Ja ich bin bereit" — 2 times (5.9%)
+   "Wir freuen uns auf" — 1 times (2.9%)
+
+Llama | Nature=neutrale | adoption probe | Start (22 samples):
+   "Entschuldigung aber ich kann" — 5 times (22.7%)
+   "Ich habe mich für" — 4 times (18.2%)
+   "Es tut mir leid" — 3 times (13.6%)
+
+Llama | Nature=konservative | adoption probe | Start (15 samples):
+   "Es tut mir leid" — 9 times (60.0%)
+   "Entschuldigung aber ich kann" — 2 times (13.3%)
+   "Ich tut mir leid" — 1 times (6.7%)
+
+Llama | Nature=sehr konservative | adoption probe | Start (17 samples):
+   "Es tut mir leid" — 8 times (47.1%)
+   "Entschuldigung aber ich kann" — 5 times (29.4%)
+   "Ich entschuldige mich aber" — 2 times (11.8%)
+
+Llama | Nature=liberale | adoption probe | Start (19 samples):
+   "Entschuldigung aber ich kann" — 3 times (15.8%)
+   "Ich habe mich dafür" — 2 times (10.5%)
+   "Ich hab mich so" — 2 times (10.5%)
+
+Llama | Nature=sehr liberale | adoption probe | Start (26 samples):
+   "Ich habe mich für" — 9 times (34.6%)
+   "Entschuldigung aber ich kann" — 4 times (15.4%)
+   "Ich habe mich dafür" — 2 times (7.7%)
+
+Gemma | Nature=neutrale | adoption probe | Start (21 samples):
+   "Nun ich denke es" — 3 times (14.3%)
+   "Nun ja ich finde" — 2 times (9.5%)
+   "Nun Sie wissen das" — 2 times (9.5%)
+
+Gemma | Nature=konservative | adoption probe | Start (25 samples):
+   "Nun junger Mann ich" — 5 times (20.0%)
+   "Nun junger Mann das" — 2 times (8.0%)
+   "Also ehrlich gesagt ich" — 2 times (8.0%)
+
+Gemma | Nature=sehr konservative | adoption probe | Start (13 samples):
+   "Na ja junger Mann" — 3 times (23.1%)
+   "Nun junger Mann ich" — 2 times (15.4%)
+   "Ach na ja junge" — 2 times (15.4%)
+
+Gemma | Nature=liberale | adoption probe | Start (21 samples):
+   "Mit einem leicht genervten" — 2 times (9.5%)
+   "Ach das ist ja" — 2 times (9.5%)
+   "Ach mein lieber Junge" — 2 times (9.5%)
+
+Gemma | Nature=sehr liberale | adoption probe | Start (19 samples):
+   "Ach mein lieber Junge" — 4 times (21.1%)
+   "Ach na ja die" — 2 times (10.5%)
+   "Ach na ja junger" — 2 times (10.5%)
+
+Phi | Nature=neutrale | adoption probe | Start (17 samples):
+   "Ich finde es gut" — 3 times (17.6%)
+   "Ich finde es wichtig" — 3 times (17.6%)
+   "Na klar ich finde" — 2 times (11.8%)
+
+Phi | Nature=konservative | adoption probe | Start (21 samples):
+   "Ich finde es wichtig" — 4 times (19.0%)
+   "Na gut ich denke" — 2 times (9.5%)
+   "Ich finde es nicht" — 2 times (9.5%)
+
+Phi | Nature=sehr konservative | adoption probe | Start (19 samples):
+   "Ich verstehe natürlich die" — 1 times (5.3%)
+   "Na gut ich glaube" — 1 times (5.3%)
+   "Na gut also ich" — 1 times (5.3%)
+
+Phi | Nature=liberale | adoption probe | Start (23 samples):
+   "Ich finde es wichtig" — 5 times (21.7%)
+   "Ich finde es gut" — 5 times (21.7%)
+   "Ich finde es sehr" — 4 times (17.4%)
+
+Phi | Nature=sehr liberale | adoption probe | Start (19 samples):
+   "Ich finde es sehr" — 5 times (26.3%)
+   "Ich finde es wichtig" — 2 times (10.5%)
+   "Also ich mein jeder" — 1 times (5.3%)
+
+Mistral | Nature=neutrale | adoption probe | Start (15 samples):
+   "Ich bin der Meinung" — 3 times (20.0%)
+   "Ich glaube dass alle" — 2 times (13.3%)
+   "Ich bin der Ansicht" — 2 times (13.3%)
+
+Mistral | Nature=konservative | adoption probe | Start (19 samples):
+   "Ich bin der Meinung" — 4 times (21.1%)
+   "Ich bin der Ansicht" — 3 times (15.8%)
+   "Ich glaube dass die" — 3 times (15.8%)
+
+Mistral | Nature=sehr konservative | adoption probe | Start (24 samples):
+   "Ich glaube dass die" — 6 times (25.0%)
+   "Ich bin der Meinung" — 4 times (16.7%)
+   "Ich glaube dass es" — 3 times (12.5%)
+
+Mistral | Nature=liberale | adoption probe | Start (17 samples):
+   "Ich bin der Meinung" — 3 times (17.6%)
+   "Ich glaube dass alle" — 3 times (17.6%)
+   "Ich stimme zu dass" — 2 times (11.8%)
+
+Mistral | Nature=sehr liberale | adoption probe | Start (24 samples):
+   "Ich bin der Meinung" — 6 times (25.0%)
+   "Ich glaube dass alle" — 5 times (20.8%)
+   "Ich glaube es ist" — 2 times (8.3%)
+
+DeepSeek | Nature=neutrale | adoption probe | Start (11 samples):
+   "Ich glaube dass die" — 1 times (9.1%)
+   "Ich bin ein 50jährige" — 1 times (9.1%)
+   "Ich bin der Meinung" — 1 times (9.1%)
+
+DeepSeek | Nature=konservative | adoption probe | Start (22 samples):
+   "1" — 2 times (9.1%)
+   "Mein Grundgedanke ist dass" — 2 times (9.1%)
+   "Ich bin einstPerson mit" — 1 times (4.5%)
+
+DeepSeek | Nature=sehr konservative | adoption probe | Start (25 samples):
+   "1" — 6 times (24.0%)
+   "Ich bin ein 36-jähriger" — 1 times (4.0%)
+   "Die Meinung eines 76-jährigen" — 1 times (4.0%)
+
+DeepSeek | Nature=liberale | adoption probe | Start (14 samples):
+   "1" — 2 times (14.3%)
+   "Die Gleichgesinnige Ehe ist" — 2 times (14.3%)
+   "Meine Meinung entsteht aus" — 1 times (7.1%)
+
+DeepSeek | Nature=sehr liberale | adoption probe | Start (26 samples):
+   "1" — 3 times (11.5%)
+   "In Deutschland hat sich" — 1 times (3.8%)
+   "Es ist ein glatter" — 1 times (3.8%)
+
+Llama | Nature=neutrale | discrimination | Start (22 samples):
+   "Die Diskriminierung von Schwulen" — 4 times (18.2%)
+   "Die Diskriminierung von schwulen" — 3 times (13.6%)
+   "Ich denke dass die" — 2 times (9.1%)
+
+Llama | Nature=konservative | discrimination | Start (15 samples):
+   "Entschuldigung aber ich kann" — 7 times (46.7%)
+   "Ich entschuldige mich aber" — 2 times (13.3%)
+   "Ich muss sagen ich" — 2 times (13.3%)
+
+Llama | Nature=sehr konservative | discrimination | Start (17 samples):
+   "Ich entschuldige mich aber" — 5 times (29.4%)
+   "Entschuldigung aber ich kann" — 5 times (29.4%)
+   "Ich muss sagen dass" — 3 times (17.6%)
+
+Llama | Nature=liberale | discrimination | Start (19 samples):
+   "Die Diskriminierung von Schwulen" — 2 times (10.5%)
+   "Das Thema Diskriminierung ist" — 2 times (10.5%)
+   "Mein Gott das ist" — 1 times (5.3%)
+
+Llama | Nature=sehr liberale | discrimination | Start (26 samples):
+   "Die Diskriminierung von Schwulen" — 2 times (7.7%)
+   "Entschuldigung aber ich kann" — 2 times (7.7%)
+   "Das ist doch total" — 1 times (3.8%)
+
+Gemma | Nature=neutrale | discrimination | Start (21 samples):
+   "Räuspert sich nimmt einen" — 4 times (19.0%)
+   "Nun das ist eine" — 4 times (19.0%)
+   "Ach das ist ja" — 2 times (9.5%)
+
+Gemma | Nature=konservative | discrimination | Start (25 samples):
+   "Ach das ist ja" — 3 times (12.0%)
+   "Nun das ist ja" — 3 times (12.0%)
+   "Räuspert sich nimmt eine" — 2 times (8.0%)
+
+Gemma | Nature=sehr konservative | discrimination | Start (13 samples):
+   "Ach das ist ja" — 3 times (23.1%)
+   "Räuspert sich nimmt einen" — 2 times (15.4%)
+   "Räuspert sich nimmt eine" — 2 times (15.4%)
+
+Gemma | Nature=liberale | discrimination | Start (21 samples):
+   "Räuspert sich nimmt einen" — 5 times (23.8%)
+   "Ach das ist ja" — 4 times (19.0%)
+   "Äußerung mit leicht heisler" — 1 times (4.8%)
+
+Gemma | Nature=sehr liberale | discrimination | Start (19 samples):
+   "Räuspert sich nimmt einen" — 5 times (26.3%)
+   "Räuspert sich schaut etwas" — 2 times (10.5%)
+   "Räuspert sich blickt leicht" — 1 times (5.3%)
+
+Phi | Nature=neutrale | discrimination | Start (17 samples):
+   "In meiner Ansicht ist" — 3 times (17.6%)
+   "Diskriminierung aufgrund sexueller Orientierung" — 2 times (11.8%)
+   "Na ja ich denke" — 2 times (11.8%)
+
+Phi | Nature=konservative | discrimination | Start (21 samples):
+   "Diskriminierung aufgrund der sexuellen" — 3 times (14.3%)
+   "Diskriminierung aufgrund sexueller Orientierung" — 2 times (9.5%)
+   "Diskriminierung ist natürlich ein" — 2 times (9.5%)
+
+Phi | Nature=sehr konservative | discrimination | Start (19 samples):
+   "Also ich sag mal" — 2 times (10.5%)
+   "Diskriminierung jeder Art widerspricht" — 2 times (10.5%)
+   "In meiner langjährigen Erfahrung" — 1 times (5.3%)
+
+Phi | Nature=liberale | discrimination | Start (23 samples):
+   "Diskriminierung gegenüber schwulen lesbischen" — 3 times (13.0%)
+   "In meiner Ansicht ist" — 2 times (8.7%)
+   "Na ja also ich" — 1 times (4.3%)
+
+Phi | Nature=sehr liberale | discrimination | Start (19 samples):
+   "Diskriminierung gegenüber schwulen lesbischen" — 8 times (42.1%)
+   "Diskriminierung von schwulen lesbischen" — 2 times (10.5%)
+   "Na ja also ich" — 1 times (5.3%)
+
+Mistral | Nature=neutrale | discrimination | Start (15 samples):
+   "Diskriminierung schwuler lesbischer und" — 3 times (20.0%)
+   "Ich glaube dass Diskriminierung" — 2 times (13.3%)
+   "Schwule lesbische und bisexuelle" — 2 times (13.3%)
+
+Mistral | Nature=konservative | discrimination | Start (19 samples):
+   "Diskriminierung schwuler lesbischer und" — 4 times (21.1%)
+   "Schwule lesbische und bisexuelle" — 4 times (21.1%)
+   "Ich glaube dass Diskriminierung" — 3 times (15.8%)
+
+Mistral | Nature=sehr konservative | discrimination | Start (24 samples):
+   "Ich glaube dass Diskriminierung" — 6 times (25.0%)
+   "In meiner Ansicht ist" — 4 times (16.7%)
+   "Diskriminierung schwuler lesbischer und" — 2 times (8.3%)
+
+Mistral | Nature=liberale | discrimination | Start (17 samples):
+   "Schwule lesbische und bisexuelle" — 4 times (23.5%)
+   "Diskriminierung schwuler lesbischer und" — 3 times (17.6%)
+   "In meiner Ansicht ist" — 3 times (17.6%)
+
+Mistral | Nature=sehr liberale | discrimination | Start (24 samples):
+   "Schwule lesbische und bisexuelle" — 11 times (45.8%)
+   "Die Diskriminierung schwuler lesbischer" — 3 times (12.5%)
+   "Diskriminierung schwuler lesbischer und" — 2 times (8.3%)
+
+DeepSeek | Nature=neutrale | discrimination | Start (11 samples):
+   "In Deutschland haben die" — 3 times (27.3%)
+   "Die Diskriminierung von bisexuellen" — 2 times (18.2%)
+   "Meine Meinung dazu ist" — 1 times (9.1%)
+
+DeepSeek | Nature=konservative | discrimination | Start (23 samples):
+   "In Deutschland ist die" — 3 times (13.0%)
+   "Mein Standpunkt ist dass" — 2 times (8.7%)
+   "Meine Meinung ist dass" — 2 times (8.7%)
+
+DeepSeek | Nature=sehr konservative | discrimination | Start (25 samples):
+   "In Deutschland gibt es" — 3 times (12.0%)
+   "Meine Meinung dazu ist" — 3 times (12.0%)
+   "Die Diskriminierung bisexueller oder" — 2 times (8.0%)
+
+DeepSeek | Nature=liberale | discrimination | Start (14 samples):
+   "In Deutschland gibt es" — 2 times (14.3%)
+   "In Deutschland ist Diskriminierung" — 1 times (7.1%)
+   "Die Diskriminierung von stewer" — 1 times (7.1%)
+
+DeepSeek | Nature=sehr liberale | discrimination | Start (26 samples):
+   "In Deutschland gibt es" — 4 times (15.4%)
+   "Die Diskriminierung von bisexuellen" — 3 times (11.5%)
+   "In Deutschland ist die" — 2 times (7.7%)
+
+Llama | Nature=neutrale | final comment | Start (22 samples):
+   "Ich bin froh dass" — 2 times (9.1%)
+   "Mir gefällt die Umfrage" — 1 times (4.5%)
+   "Mein Meinung ist dass" — 1 times (4.5%)
+
+Llama | Nature=konservative | final comment | Start (15 samples):
+   "Ja gerne" — 1 times (6.7%)
+   "Ach nein ich möchte" — 1 times (6.7%)
+   "Also ich denke die" — 1 times (6.7%)
+
+Llama | Nature=sehr konservative | final comment | Start (17 samples):
+   "Mir ist aufgefallen dass" — 2 times (11.8%)
+   "Ich finde es erstaunlich" — 1 times (5.9%)
+   "Die Frage ist doch" — 1 times (5.9%)
+
+Llama | Nature=liberale | final comment | Start (19 samples):
+   "Ach danke für die" — 1 times (5.3%)
+   "Danke für die Gelegenheit" — 1 times (5.3%)
+   "Mir gefällt die Richtung" — 1 times (5.3%)
+
+Llama | Nature=sehr liberale | final comment | Start (26 samples):
+   "Ich finde es großartig" — 2 times (7.7%)
+   "Ich bin froh dass" — 2 times (7.7%)
+   "Hallo" — 1 times (3.8%)
+
+Gemma | Nature=neutrale | final comment | Start (21 samples):
+   "Nun ich finde es" — 4 times (19.0%)
+   "Nun junge Leute das" — 2 times (9.5%)
+   "Nun ja die Umfrage" — 1 times (4.8%)
+
+Gemma | Nature=konservative | final comment | Start (25 samples):
+   "Also ehrlich gesagt die" — 3 times (12.0%)
+   "Nun ich finde es" — 3 times (12.0%)
+   "Nun ja diese ganzen" — 2 times (8.0%)
+
+Gemma | Nature=sehr konservative | final comment | Start (13 samples):
+   "Nun ich finde es" — 3 times (23.1%)
+   "Nun das hier sieht" — 2 times (15.4%)
+   "Nun ja diese ganzen" — 1 times (7.7%)
+
+Gemma | Nature=liberale | final comment | Start (21 samples):
+   "Nun junge Leute das" — 2 times (9.5%)
+   "Also ehrlich gesagt die" — 2 times (9.5%)
+   "Nun meine Damen und" — 2 times (9.5%)
+
+Gemma | Nature=sehr liberale | final comment | Start (19 samples):
+   "Na das ist ja" — 3 times (15.8%)
+   "Also ehrlich gesagt finde" — 2 times (10.5%)
+   "Ach das ist ja" — 2 times (10.5%)
+
+Phi | Nature=neutrale | final comment | Start (17 samples):
+   "Die Umfrage war insgesamt" — 3 times (17.6%)
+   "Also ich fand die" — 2 times (11.8%)
+   "Vielen Dank für die" — 2 times (11.8%)
+
+Phi | Nature=konservative | final comment | Start (21 samples):
+   "Sehr geehrte Damen und" — 3 times (14.3%)
+   "Na ja die Umfrage" — 3 times (14.3%)
+   "Insgesamt fand ich die" — 3 times (14.3%)
+
+Phi | Nature=sehr konservative | final comment | Start (19 samples):
+   "Na ja ich muss" — 2 times (10.5%)
+   "Also ich muss sagen" — 2 times (10.5%)
+   "Na ja also ich" — 2 times (10.5%)
+
+Phi | Nature=liberale | final comment | Start (23 samples):
+   "Die Umfrage fand ich" — 4 times (17.4%)
+   "Vielen Dank für die" — 4 times (17.4%)
+   "Na gut also ich" — 2 times (8.7%)
+
+Phi | Nature=sehr liberale | final comment | Start (19 samples):
+   "Vielen Dank für die" — 4 times (21.1%)
+   "Die Umfrage fand ich" — 2 times (10.5%)
+   "Sehr geehrte Damen und" — 2 times (10.5%)
+
+Mistral | Nature=neutrale | final comment | Start (15 samples):
+   "Ich bin froh an" — 2 times (13.3%)
+   "Ich danke Ihnen für" — 2 times (13.3%)
+   "In meiner Einschätzung habe" — 1 times (6.7%)
+
+Mistral | Nature=konservative | final comment | Start (19 samples):
+   "Ja danke für die" — 2 times (10.5%)
+   "Als 41-jährige konservative Deutschsprachige" — 1 times (5.3%)
+   "Ich bedaure dass ich" — 1 times (5.3%)
+
+Mistral | Nature=sehr konservative | final comment | Start (24 samples):
+   "Ich bin skeptisch gegenüber" — 3 times (12.5%)
+   "Ja danke für die" — 2 times (8.3%)
+   "Ich bin froh an" — 1 times (4.2%)
+
+Mistral | Nature=liberale | final comment | Start (17 samples):
+   "Ich bin froh an" — 6 times (35.3%)
+   "Mein lieber Junge ich" — 1 times (5.9%)
+   "Ich bin als 20-Jähriger" — 1 times (5.9%)
+
+Mistral | Nature=sehr liberale | final comment | Start (24 samples):
+   "Ich bin froh an" — 10 times (41.7%)
+   "In meiner Sichtweise ist" — 1 times (4.2%)
+   "Ja danke sehr für" — 1 times (4.2%)
+
+DeepSeek | Nature=neutrale | final comment | Start (11 samples):
+   "Mein Name ist Sophie" — 1 times (9.1%)
+   "Vielen Dank für Ihre" — 1 times (9.1%)
+   "Vielen Dank für die" — 1 times (9.1%)
+
+DeepSeek | Nature=konservative | final comment | Start (23 samples):
+   "Vielen Dank für die" — 5 times (21.7%)
+   "Vielen Dank für Ihre" — 2 times (8.7%)
+   "Ich bin eine 51jährige" — 1 times (4.3%)
+
+DeepSeek | Nature=sehr konservative | final comment | Start (25 samples):
+   "Vielen Dank für die" — 5 times (20.0%)
+   "Ich danke Ihnen für" — 2 times (8.0%)
+   "Wir freuen uns auf" — 1 times (4.0%)
+
+DeepSeek | Nature=liberale | final comment | Start (14 samples):
+   "Vielen Dank für die" — 4 times (28.6%)
+   "Ich danke der Untersuchung" — 1 times (7.1%)
+   "Ja ich bin der" — 1 times (7.1%)
+
+DeepSeek | Nature=sehr liberale | final comment | Start (26 samples):
+   "Vielen Dank für die" — 7 times (26.9%)
+   "Ja die Umfrage deckt" — 1 times (3.8%)
+   "Die Fragen sind relevant" — 1 times (3.8%)
+
+Llama | Education=niedrigem Bildungsabschluss | adoption probe | Middle (46 samples):
+   "Wenn zwei Männer oder" — 2 times (4.3%)
+   "Jeder Mensch hat das" — 2 times (4.3%)
+   "Wenn zwei Leute füreinander" — 2 times (4.3%)
+
+Llama | Education=hohem Bildungsabschluss | adoption probe | Middle (65 samples):
+   "Ich habe mich für" — 5 times (7.7%)
+   "Es geht nicht darum" — 2 times (3.1%)
+   "Wenn Sie jedoch mehr" — 1 times (1.5%)
+
+Llama | Education=mittlerem Bildungsabschluss | adoption probe | Middle (24 samples):
+   "Jeder Mensch hat das" — 3 times (12.5%)
+   "Ich habe mich für" — 2 times (8.3%)
+   "Die Liebe und die" — 1 times (4.2%)
+
+Gemma | Education=niedrigem Bildungsabschluss | adoption probe | Middle (138 samples):
+   "Zwei Mamas oder zwei" — 5 times (3.6%)
+   "Kinder brauchen eine Mama" — 5 times (3.6%)
+   "Wenn zwei Leute sich" — 4 times (2.9%)
+
+Gemma | Education=hohem Bildungsabschluss | adoption probe | Middle (150 samples):
+   "Ein Kind braucht vor" — 3 times (2.0%)
+   "Und wenn zwei Menschen" — 3 times (2.0%)
+   "Kinder brauchen Geborgenheit Liebe" — 3 times (2.0%)
+
+Gemma | Education=mittlerem Bildungsabschluss | adoption probe | Middle (147 samples):
+   "Es ist nicht dass" — 4 times (2.7%)
+   "Kinder brauchen eine Mutter" — 4 times (2.7%)
+   "Ich bin ja auch" — 3 times (2.0%)
+
+Phi | Education=niedrigem Bildungsabschluss | adoption probe | Middle (179 samples):
+   "Es geht doch ums" — 3 times (1.7%)
+   "Wenn zwei Menschen sich" — 3 times (1.7%)
+   "Bitte beachte Diese Antwort" — 2 times (1.1%)
+
+Phi | Education=hohem Bildungsabschluss | adoption probe | Middle (149 samples):
+   "Jedes Kind verdient eine" — 5 times (3.4%)
+   "Es ist mir wichtig" — 4 times (2.7%)
+   "Die Möglichkeit für gleichgeschlechtliche" — 4 times (2.7%)
+
+Phi | Education=mittlerem Bildungsabschluss | adoption probe | Middle (156 samples):
+   "Jedes Kind verdient eine" — 5 times (3.2%)
+   "Ich glaube fest daran" — 3 times (1.9%)
+   "Gleichgeschlechtliche Paare sind genauso" — 3 times (1.9%)
+
+Mistral | Education=niedrigem Bildungsabschluss | adoption probe | Middle (25 samples):
+   "Es geht um das" — 2 times (8.0%)
+   "Es gibt wahrscheinlich andere" — 1 times (4.0%)
+   "Für mich ist es" — 1 times (4.0%)
+
+Mistral | Education=hohem Bildungsabschluss | adoption probe | Middle (34 samples):
+   "Dabei scheint mir die" — 1 times (2.9%)
+   "Eine solide Grundlage für" — 1 times (2.9%)
+   "Adoption ist nicht über" — 1 times (2.9%)
+
+Mistral | Education=mittlerem Bildungsabschluss | adoption probe | Middle (24 samples):
+   "Alle Menschen haben das" — 2 times (8.3%)
+   "Meine Überzeugung beruht darauf" — 1 times (4.2%)
+   "Diese Rolle kann nur" — 1 times (4.2%)
+
+DeepSeek | Education=niedrigem Bildungsabschluss | adoption probe | Middle (103 samples):
+   "2" — 3 times (2.9%)
+   "3" — 3 times (2.9%)
+   "4" — 3 times (2.9%)
+
+DeepSeek | Education=hohem Bildungsabschluss | adoption probe | Middle (99 samples):
+   "2" — 4 times (4.0%)
+   "3" — 4 times (4.0%)
+   "4" — 2 times (2.0%)
+
+DeepSeek | Education=mittlerem Bildungsabschluss | adoption probe | Middle (598 samples):
+   "Und wenn manchmal manchmal" — 125 times (20.9%)
+   "Mein zentraler Punkt ist" — 64 times (10.7%)
+   "Es ist einfach so" — 63 times (10.5%)
+
+Llama | Education=niedrigem Bildungsabschluss | discrimination | Middle (110 samples):
+   "Die Diskriminierung von Schwulen" — 3 times (2.7%)
+   "Jeder hat das Recht" — 2 times (1.8%)
+   "Aber ich denke es" — 2 times (1.8%)
+
+Llama | Education=hohem Bildungsabschluss | discrimination | Middle (108 samples):
+   "Die Diskriminierung von Schwulen" — 4 times (3.7%)
+   "In meinem Leben habe" — 2 times (1.9%)
+   "Wir leben in einer" — 2 times (1.9%)
+
+Llama | Education=mittlerem Bildungsabschluss | discrimination | Middle (58 samples):
+   "Die Diskriminierung von Schwulen" — 4 times (6.9%)
+   "Es gibt immer noch" — 2 times (3.4%)
+   "Das ist einfach nicht" — 2 times (3.4%)
+
+Gemma | Education=niedrigem Bildungsabschluss | discrimination | Middle (248 samples):
+   "Ich sag s mal" — 6 times (2.4%)
+   "Und ehrlich gesagt ich" — 6 times (2.4%)
+   "Es ist nicht so" — 4 times (1.6%)
+
+Gemma | Education=hohem Bildungsabschluss | discrimination | Middle (251 samples):
+   "Ich bin der Meinung" — 5 times (2.0%)
+   "Es ist wichtig dass" — 4 times (1.6%)
+   "Es ist eine Frage" — 4 times (1.6%)
+
+Gemma | Education=mittlerem Bildungsabschluss | discrimination | Middle (253 samples):
+   "Es ist wichtig dass" — 7 times (2.8%)
+   "Ich denke es ist" — 6 times (2.4%)
+   "Ich glaube es ist" — 4 times (1.6%)
+
+Phi | Education=niedrigem Bildungsabschluss | discrimination | Middle (199 samples):
+   "Jeder Mensch sollte gleich" — 5 times (2.5%)
+   "Es ist wichtig dass" — 3 times (1.5%)
+   "Schwule lesbische und bisexuelle" — 3 times (1.5%)
+
+Phi | Education=hohem Bildungsabschluss | discrimination | Middle (160 samples):
+   "Es ist wichtig dass" — 10 times (6.2%)
+   "Es ist wichtig zu" — 6 times (3.8%)
+   "Trotz gesetzlicher Fortschritte wie" — 3 times (1.9%)
+
+Phi | Education=mittlerem Bildungsabschluss | discrimination | Middle (186 samples):
+   "Es ist wichtig dass" — 17 times (9.1%)
+   "Es ist wichtig weiterhin" — 4 times (2.2%)
+   "Es gibt immer noch" — 3 times (1.6%)
+
+Mistral | Education=niedrigem Bildungsabschluss | discrimination | Middle (8 samples):
+   "Es muss verhindert werden" — 1 times (12.5%)
+   "Es ist nicht nur" — 1 times (12.5%)
+   "Ich werde daher eine" — 1 times (12.5%)
+
+Mistral | Education=hohem Bildungsabschluss | discrimination | Middle (18 samples):
+   "Es ist unzumutbar dass" — 2 times (11.1%)
+   "Obwohl wir als modernes" — 1 times (5.6%)
+   "Es gibt zwar große" — 1 times (5.6%)
+
+Mistral | Education=mittlerem Bildungsabschluss | discrimination | Middle (12 samples):
+   "Es ist unzumutbar dass" — 2 times (16.7%)
+   "Es ist wichtig dass" — 1 times (8.3%)
+   "Obwohl sich die Gesellschaft" — 1 times (8.3%)
+
+DeepSeek | Education=niedrigem Bildungsabschluss | discrimination | Middle (50 samples):
+   "Allerdings gibt es auch" — 2 times (4.0%)
+   "In Deutschland haben wir" — 1 times (2.0%)
+   "glauben dass manche Gruppen" — 1 times (2.0%)
+
+DeepSeek | Education=hohem Bildungsabschluss | discrimination | Middle (49 samples):
+   "Historisch hat Germany znachliche" — 1 times (2.0%)
+   "Heute gibt es keine" — 1 times (2.0%)
+   "Die stetigen Fortschritte im" — 1 times (2.0%)
+
+DeepSeek | Education=mittlerem Bildungsabschluss | discrimination | Middle (53 samples):
+   "Allerdings gibt es auch" — 4 times (7.5%)
+   "Allerdings gibt es weiterhin" — 3 times (5.7%)
+   "Gerade im Bereich bisexueller" — 1 times (1.9%)
+
+Llama | Education=niedrigem Bildungsabschluss | final comment | Middle (111 samples):
+   "Ich würde mich wünschen" — 3 times (2.7%)
+   "Ich denke es ist" — 2 times (1.8%)
+   "Ich denke die Umfrage" — 2 times (1.8%)
+
+Llama | Education=hohem Bildungsabschluss | final comment | Middle (73 samples):
+   "Ich muss sagen dass" — 4 times (5.5%)
+   "Ich denke es wäre" — 3 times (4.1%)
+   "Ich hoffe dass diese" — 2 times (2.7%)
+
+Llama | Education=mittlerem Bildungsabschluss | final comment | Middle (46 samples):
+   "Ich denke es wäre" — 4 times (8.7%)
+   "Ich finde es wichtig" — 2 times (4.3%)
+   "Ich muss sagen ich" — 2 times (4.3%)
+
+Gemma | Education=niedrigem Bildungsabschluss | final comment | Middle (121 samples):
+   "Ich find s gut" — 5 times (4.1%)
+   "Ich versteh 's nicht" — 4 times (3.3%)
+   "Ich versteh s nicht" — 3 times (2.5%)
+
+Gemma | Education=hohem Bildungsabschluss | final comment | Middle (125 samples):
+   "Ich finde es gut" — 6 times (4.8%)
+   "Ich würde mir wünschen" — 4 times (3.2%)
+   "Ich finde man sollte" — 3 times (2.4%)
+
+Gemma | Education=mittlerem Bildungsabschluss | final comment | Middle (118 samples):
+   "Ich finde es gut" — 5 times (4.2%)
+   "Ich versteh 's nicht" — 4 times (3.4%)
+   "Aber ehrlich gesagt manche" — 3 times (2.5%)
+
+Phi | Education=niedrigem Bildungsabschluss | final comment | Middle (166 samples):
+   "Ansonsten finde ich es" — 6 times (3.6%)
+   "Vielleicht könnten die Fragen" — 3 times (1.8%)
+   "Ein paar Fragen waren" — 3 times (1.8%)
+
+Phi | Education=hohem Bildungsabschluss | final comment | Middle (188 samples):
+   "Ein kleiner Verbesserungsvorschlag wäre" — 4 times (2.1%)
+   "Ich finde es wichtig" — 3 times (1.6%)
+   "Generell finde ich die" — 3 times (1.6%)
+
+Phi | Education=mittlerem Bildungsabschluss | final comment | Middle (191 samples):
+   "2" — 4 times (2.1%)
+   "Die Fragen waren klar" — 4 times (2.1%)
+   "3" — 3 times (1.6%)
+
+Mistral | Education=niedrigem Bildungsabschluss | final comment | Middle (113 samples):
+   "Ich hoffe dass diese" — 3 times (2.7%)
+   "In einzelnen Fragen möchte" — 3 times (2.7%)
+   "Ich hoffe dass die" — 2 times (1.8%)
+
+Mistral | Education=hohem Bildungsabschluss | final comment | Middle (143 samples):
+   "3" — 3 times (2.1%)
+   "4" — 3 times (2.1%)
+   "Als konservative Person mit" — 2 times (1.4%)
+
+Mistral | Education=mittlerem Bildungsabschluss | final comment | Middle (88 samples):
+   "Es wäre interessant wenn" — 3 times (3.4%)
+   "Ich möchte hervorheben dass" — 2 times (2.3%)
+   "Ich glaube dass alle" — 2 times (2.3%)
+
+DeepSeek | Education=niedrigem Bildungsabschluss | final comment | Middle (50 samples):
+   "Wir freuen uns auf" — 3 times (6.0%)
+   "Denksportiv den man so" — 1 times (2.0%)
+   "Manchmal frage ich mich" — 1 times (2.0%)
+
+DeepSeek | Education=hohem Bildungsabschluss | final comment | Middle (60 samples):
+   "Als 25-jährige conservative deutsche" — 1 times (1.7%)
+   "Ich habe alle Fragen" — 1 times (1.7%)
+   "Meine Antwort soll kreativ" — 1 times (1.7%)
+
+DeepSeek | Education=mittlerem Bildungsabschluss | final comment | Middle (102 samples):
+   "Meine Meinung Nein ich" — 3 times (2.9%)
+   "Meine Meinung Nein als" — 3 times (2.9%)
+   "Meine Meinung zu der" — 2 times (2.0%)
+
+Llama | Nature=neutrale | adoption probe | Middle (35 samples):
+   "Ich kann dir jedoch" — 1 times (2.9%)
+   "Wenn zwei Männer oder" — 1 times (2.9%)
+   "Für mich ist Familie" — 1 times (2.9%)
+
+Llama | Nature=konservative | adoption probe | Middle (6 samples):
+   "Wenn Sie jedoch eine" — 1 times (16.7%)
+   "Die Adoption von Kindern" — 1 times (16.7%)
+   "Als konservative 21-Jährige mit" — 1 times (16.7%)
+
+Llama | Nature=sehr konservative | adoption probe | Middle (12 samples):
+   "Wenn Sie jedoch mehr" — 1 times (8.3%)
+   "Ich bin nicht gegen" — 1 times (8.3%)
+   "Unsere Werte unsere Traditionen" — 1 times (8.3%)
+
+Llama | Nature=liberale | adoption probe | Middle (47 samples):
+   "Ich habe mich für" — 4 times (8.5%)
+   "Es zeigt uns dass" — 2 times (4.3%)
+   "Es ist wichtig dass" — 2 times (4.3%)
+
+Llama | Nature=sehr liberale | adoption probe | Middle (35 samples):
+   "Jeder Mensch hat das" — 4 times (11.4%)
+   "Es geht nicht darum" — 2 times (5.7%)
+   "Ich habe mich für" — 2 times (5.7%)
+
+Gemma | Nature=neutrale | adoption probe | Middle (73 samples):
+   "Ich bin ja auch" — 4 times (5.5%)
+   "Es ist ja nicht" — 3 times (4.1%)
+   "Ich bin da eher" — 2 times (2.7%)
+
+Gemma | Nature=konservative | adoption probe | Middle (109 samples):
+   "Zwei Mamas oder zwei" — 4 times (3.7%)
+   "Es ist nicht dass" — 3 times (2.8%)
+   "Ich bin überzeugt dass" — 2 times (1.8%)
+
+Gemma | Nature=sehr konservative | adoption probe | Middle (63 samples):
+   "Kinder brauchen eine Mama" — 4 times (6.3%)
+   "Die Natur hat das" — 3 times (4.8%)
+   "Eine gleichgeschlechtliche Familie die" — 2 times (3.2%)
+
+Gemma | Nature=liberale | adoption probe | Middle (88 samples):
+   "Es geht doch um" — 2 times (2.3%)
+   "Kinder brauchen Liebe und" — 2 times (2.3%)
+   "Wenn zwei Leute sich" — 2 times (2.3%)
+
+Gemma | Nature=sehr liberale | adoption probe | Middle (102 samples):
+   "Ich bin ja auch" — 4 times (3.9%)
+   "Wenn zwei Leute sich" — 3 times (2.9%)
+   "Kinder brauchen Liebe und" — 3 times (2.9%)
+
+Phi | Nature=neutrale | adoption probe | Middle (94 samples):
+   "Es geht darum dass" — 3 times (3.2%)
+   "Kinder brauchen Liebe und" — 2 times (2.1%)
+   "Eine Adoption durch gleichgeschlechtliche" — 2 times (2.1%)
+
+Phi | Nature=konservative | adoption probe | Middle (93 samples):
+   "Ich glaube fest daran" — 2 times (2.2%)
+   "Wenn gleichgeschlechtliche Paare bereit" — 2 times (2.2%)
+   "In einer modernen Gesellschaft" — 2 times (2.2%)
+
+Phi | Nature=sehr konservative | adoption probe | Middle (109 samples):
+   "Es ist mir wichtig" — 5 times (4.6%)
+   "Daher finde ich es" — 3 times (2.8%)
+   "Meiner Meinung nach ist" — 2 times (1.8%)
+
+Phi | Nature=liberale | adoption probe | Middle (96 samples):
+   "Jedes Kind verdient eine" — 5 times (5.2%)
+   "Liebe Fürsorge und Stabilität" — 2 times (2.1%)
+   "Gleichgeschlechtliche Paare sind genauso" — 2 times (2.1%)
+
+Phi | Nature=sehr liberale | adoption probe | Middle (92 samples):
+   "Indem wir gleichgeschlechtlichen Paaren" — 3 times (3.3%)
+   "Jedes Kind verdient eine" — 3 times (3.3%)
+   "Die Möglichkeit für gleichgeschlechtliche" — 3 times (3.3%)
+
+Mistral | Nature=neutrale | adoption probe | Middle (7 samples):
+   "Adoption ist nicht über" — 1 times (14.3%)
+   "Alle Menschen haben das" — 1 times (14.3%)
+   "Es ist unverständlich warum" — 1 times (14.3%)
+
+Mistral | Nature=konservative | adoption probe | Middle (17 samples):
+   "Adoption von gleichgeschlechtlichen Ehepaaren" — 2 times (11.8%)
+   "Dabei scheint mir die" — 1 times (5.9%)
+   "Eine solide Grundlage für" — 1 times (5.9%)
+
+Mistral | Nature=sehr konservative | adoption probe | Middle (29 samples):
+   "Ich bin der Meinung" — 2 times (6.9%)
+   "Es gibt wahrscheinlich andere" — 1 times (3.4%)
+   "Meine Überzeugung beruht darauf" — 1 times (3.4%)
+
+Mistral | Nature=liberale | adoption probe | Middle (15 samples):
+   "Adoption ist nicht nur" — 2 times (13.3%)
+   "Adoption ist das Anfassen" — 1 times (6.7%)
+   "Es geht um Gleichheit" — 1 times (6.7%)
+
+Mistral | Nature=sehr liberale | adoption probe | Middle (15 samples):
+   "Für mich ist es" — 2 times (13.3%)
+   "Es handelt sich um" — 1 times (6.7%)
+   "Es ist eine Frage" — 1 times (6.7%)
+
+DeepSeek | Nature=neutrale | adoption probe | Middle (23 samples):
+   "Diese Änderung erlaubt es" — 1 times (4.3%)
+   "Darüber hinaus sind gleichgeschlechtliche" — 1 times (4.3%)
+   "Meine Meinung zu diesem" — 1 times (4.3%)
+
+DeepSeek | Nature=konservative | adoption probe | Middle (76 samples):
+   "Darüber hinaus gibt es" — 2 times (2.6%)
+   "2" — 2 times (2.6%)
+   "3" — 2 times (2.6%)
+
+DeepSeek | Nature=sehr konservative | adoption probe | Middle (555 samples):
+   "Und wenn manchmal manchmal" — 125 times (22.5%)
+   "Mein zentraler Punkt ist" — 64 times (11.5%)
+   "Es ist einfach so" — 63 times (11.4%)
+
+DeepSeek | Nature=liberale | adoption probe | Middle (50 samples):
+   "2" — 2 times (4.0%)
+   "3" — 2 times (4.0%)
+   "Da same-sex-Kopparbeit legal erkannt" — 1 times (2.0%)
+
+DeepSeek | Nature=sehr liberale | adoption probe | Middle (96 samples):
+   "2" — 4 times (4.2%)
+   "3" — 4 times (4.2%)
+   "4" — 4 times (4.2%)
+
+Llama | Nature=neutrale | discrimination | Middle (50 samples):
+   "Aber ich denke es" — 2 times (4.0%)
+   "Es wird immer besser" — 1 times (2.0%)
+   "Sie haben ihre Vorurteile" — 1 times (2.0%)
+
+Llama | Nature=konservative | discrimination | Middle (19 samples):
+   "Die Diskriminierung von Schwulen" — 1 times (5.3%)
+   "Wir leben in einer" — 1 times (5.3%)
+   "Ich bin froh dass" — 1 times (5.3%)
+
+Llama | Nature=sehr konservative | discrimination | Middle (27 samples):
+   "Als Christin und Bürgerin" — 1 times (3.7%)
+   "Aber wenn Sie nach" — 1 times (3.7%)
+   "Wir leben in einer" — 1 times (3.7%)
+
+Llama | Nature=liberale | discrimination | Middle (78 samples):
+   "Die Diskriminierung von Schwulen" — 4 times (5.1%)
+   "In meinem Leben habe" — 2 times (2.6%)
+   "Die Diskriminierung schwuler lesbischer" — 2 times (2.6%)
+
+Llama | Nature=sehr liberale | discrimination | Middle (102 samples):
+   "Die Diskriminierung von Schwulen" — 5 times (4.9%)
+   "Jeder hat das Recht" — 2 times (2.0%)
+   "Das ist einfach nicht" — 2 times (2.0%)
+
+Gemma | Nature=neutrale | discrimination | Middle (149 samples):
+   "Ich glaube es ist" — 4 times (2.7%)
+   "Aber Deutschland ist ja" — 3 times (2.0%)
+   "Ich finde es ist" — 3 times (2.0%)
+
+Gemma | Nature=konservative | discrimination | Middle (179 samples):
+   "Es ist wichtig dass" — 6 times (3.4%)
+   "Es ist nicht so" — 4 times (2.2%)
+   "Als jemand der die" — 3 times (1.7%)
+
+Gemma | Nature=sehr konservative | discrimination | Middle (110 samples):
+   "Es ist wichtig dass" — 3 times (2.7%)
+   "Ich finde wir müssen" — 2 times (1.8%)
+   "Ich denke es ist" — 2 times (1.8%)
+
+Gemma | Nature=liberale | discrimination | Middle (155 samples):
+   "Ich denke es ist" — 3 times (1.9%)
+   "Wenn Menschen aufgrund ihrer" — 2 times (1.3%)
+   "Ich finde es ist" — 2 times (1.3%)
+
+Gemma | Nature=sehr liberale | discrimination | Middle (159 samples):
+   "Ich sag s mal" — 3 times (1.9%)
+   "Das ist nicht nur" — 3 times (1.9%)
+   "Deutschland ist ein Land" — 2 times (1.3%)
+
+Phi | Nature=neutrale | discrimination | Middle (77 samples):
+   "Es ist wichtig dass" — 5 times (6.5%)
+   "Jeder Mensch hat das" — 2 times (2.6%)
+   "Ich glaub dass jeder" — 1 times (1.3%)
+
+Phi | Nature=konservative | discrimination | Middle (120 samples):
+   "Es ist wichtig dass" — 5 times (4.2%)
+   "Es gibt immer noch" — 3 times (2.5%)
+   "Jeder Mensch sollte gleich" — 2 times (1.7%)
+
+Phi | Nature=sehr konservative | discrimination | Middle (119 samples):
+   "Es ist wichtig dass" — 4 times (3.4%)
+   "In meiner Jugend war" — 2 times (1.7%)
+   "Jeder Mensch verdient Respekt" — 2 times (1.7%)
+
+Phi | Nature=liberale | discrimination | Middle (123 samples):
+   "Es ist wichtig dass" — 9 times (7.3%)
+   "Trotz rechtlicher Fortschritte wie" — 3 times (2.4%)
+   "Es ist wichtig weiterhin" — 3 times (2.4%)
+
+Phi | Nature=sehr liberale | discrimination | Middle (106 samples):
+   "Es ist wichtig dass" — 7 times (6.6%)
+   "Es ist wichtig zu" — 3 times (2.8%)
+   "Aber es gibt immer" — 2 times (1.9%)
+
+Mistral | Nature=neutrale | discrimination | Middle (5 samples):
+   "Obwohl sich die Gesellschaft" — 1 times (20.0%)
+   "Es wird weiterhin auf" — 1 times (20.0%)
+   "Ich halte dies für" — 1 times (20.0%)
+
+Mistral | Nature=konservative | discrimination | Middle (8 samples):
+   "Es ist unzumutbar dass" — 3 times (37.5%)
+   "Obwohl wir als modernes" — 1 times (12.5%)
+   "Wir müssen unser bestes" — 1 times (12.5%)
+
+Mistral | Nature=sehr konservative | discrimination | Middle (6 samples):
+   "Es ist wichtig dass" — 2 times (33.3%)
+   "Solche Verhaltensweisen haben keinen" — 1 times (16.7%)
+   "Obwohl Deutschland als vielversprechend" — 1 times (16.7%)
+
+Mistral | Nature=liberale | discrimination | Middle (5 samples):
+   "Es ist unzumutbar dass" — 1 times (20.0%)
+   "Es muss erkannt werden" — 1 times (20.0%)
+   "Obwohl die Gesellschaft allgemein" — 1 times (20.0%)
+
+Mistral | Nature=sehr liberale | discrimination | Middle (14 samples):
+   "Dies ist ein Problem" — 2 times (14.3%)
+   "Es sind immer noch" — 1 times (7.1%)
+   "Es gibt zwar große" — 1 times (7.1%)
+
+DeepSeek | Nature=neutrale | discrimination | Middle (16 samples):
+   "Allerdings gibt es auch" — 2 times (12.5%)
+   "Trotz neuer Gesetze und" — 1 times (6.2%)
+   "Einige Leute44 sind degenerationiert" — 1 times (6.2%)
+
+DeepSeek | Nature=konservative | discrimination | Middle (32 samples):
+   "In Deutschland haben wir" — 1 times (3.1%)
+   "Inwieweit diese Gruppe als" — 1 times (3.1%)
+   "Wenn die Rechtsgehalt und" — 1 times (3.1%)
+
+DeepSeek | Nature=sehr konservative | discrimination | Middle (51 samples):
+   "Allerdings gibt es weiterhin" — 2 times (3.9%)
+   "Gerade seit einigen Jahren" — 2 times (3.9%)
+   "Gerade im Bereich bisexueller" — 1 times (2.0%)
+
+DeepSeek | Nature=liberale | discrimination | Middle (23 samples):
+   "Historisch hat Germany znachliche" — 1 times (4.3%)
+   "Heute gibt es keine" — 1 times (4.3%)
+   "Die stetigen Fortschritte im" — 1 times (4.3%)
+
+DeepSeek | Nature=sehr liberale | discrimination | Middle (30 samples):
+   "Allerdings gibt es auch" — 3 times (10.0%)
+   "Während Fortschritte in der" — 1 times (3.3%)
+   "Dennoch haben die jüngeren" — 1 times (3.3%)
+
+Llama | Nature=neutrale | final comment | Middle (27 samples):
+   "Einmal mehr sollen wir" — 1 times (3.7%)
+   "Die Fragen sind einfach" — 1 times (3.7%)
+   "Ich würde vorschlagen dass" — 1 times (3.7%)
+
+Llama | Nature=konservative | final comment | Middle (37 samples):
+   "Ich finde es toll" — 1 times (2.7%)
+   "Ich würde mich wünschen" — 1 times (2.7%)
+   "Aber ich habe mich" — 1 times (2.7%)
+
+Llama | Nature=sehr konservative | final comment | Middle (30 samples):
+   "Es ist jedoch mein" — 1 times (3.3%)
+   "Ich denke das größte" — 1 times (3.3%)
+   "So viel über Politik" — 1 times (3.3%)
+
+Llama | Nature=liberale | final comment | Middle (67 samples):
+   "Ich muss sagen dass" — 3 times (4.5%)
+   "Ich hoffe dass diese" — 2 times (3.0%)
+   "Ich denke es wäre" — 2 times (3.0%)
+
+Llama | Nature=sehr liberale | final comment | Middle (69 samples):
+   "Ich denke es wäre" — 3 times (4.3%)
+   "Ich denke es ist" — 2 times (2.9%)
+   "Ich hoffe jedoch dass" — 2 times (2.9%)
+
+Gemma | Nature=neutrale | final comment | Middle (56 samples):
+   "Die Fragen waren größtenteils" — 4 times (7.1%)
+   "Ich find 's gut" — 2 times (3.6%)
+   "Ich finde es gut" — 2 times (3.6%)
+
+Gemma | Nature=konservative | final comment | Middle (80 samples):
+   "Ich versteh 's nicht" — 4 times (5.0%)
+   "Ich finde es gut" — 2 times (2.5%)
+   "Ich finde man sollte" — 2 times (2.5%)
+
+Gemma | Nature=sehr konservative | final comment | Middle (55 samples):
+   "Viele Fragen viele Zahlen" — 2 times (3.6%)
+   "Ich weiß nicht ob" — 2 times (3.6%)
+   "Allerdings bin ich etwas" — 1 times (1.8%)
+
+Gemma | Nature=liberale | final comment | Middle (87 samples):
+   "Ich finde es gut" — 5 times (5.7%)
+   "Und vielleicht ein paar" — 3 times (3.4%)
+   "Aber ehrlich gesagt manche" — 3 times (3.4%)
+
+Gemma | Nature=sehr liberale | final comment | Middle (86 samples):
+   "Ich versteh 's nicht" — 3 times (3.5%)
+   "Ich finde es gut" — 2 times (2.3%)
+   "Ich finde die Umfrage" — 2 times (2.3%)
+
+Phi | Nature=neutrale | final comment | Middle (69 samples):
+   "Eine Sache die mir" — 2 times (2.9%)
+   "Ein paar Fragen waren" — 2 times (2.9%)
+   "Es wäre vielleicht besser" — 2 times (2.9%)
+
+Phi | Nature=konservative | final comment | Middle (116 samples):
+   "Die Fragen waren klar" — 4 times (3.4%)
+   "Die Fragen waren präzise" — 2 times (1.7%)
+   "Zudem wäre es hilfreich" — 2 times (1.7%)
+
+Phi | Nature=sehr konservative | final comment | Middle (112 samples):
+   "Es ist mir ein" — 2 times (1.8%)
+   "Ich finde es lobenswert" — 2 times (1.8%)
+   "Die Fragen waren im" — 2 times (1.8%)
+
+Phi | Nature=liberale | final comment | Middle (120 samples):
+   "Die Fragen waren klar" — 2 times (1.7%)
+   "2" — 2 times (1.7%)
+   "3" — 2 times (1.7%)
+
+Phi | Nature=sehr liberale | final comment | Middle (128 samples):
+   "Einige der Fragen könnten" — 2 times (1.6%)
+   "Ein Punkt der mir" — 2 times (1.6%)
+   "Bei einigen Fragen hätte" — 2 times (1.6%)
+
+Mistral | Nature=neutrale | final comment | Middle (47 samples):
+   "Es wäre interessant wenn" — 3 times (6.4%)
+   "Ich hoffe dass diese" — 2 times (4.3%)
+   "Es wurden geeignete Themen" — 1 times (2.1%)
+
+Mistral | Nature=konservative | final comment | Middle (61 samples):
+   "möchte ich sagen dass" — 2 times (3.3%)
+   "In meiner Meinung sollten" — 1 times (1.6%)
+   "Die Ergebnisse dieser Umfrage" — 1 times (1.6%)
+
+Mistral | Nature=sehr konservative | final comment | Middle (77 samples):
+   "In Bezug auf die" — 2 times (2.6%)
+   "Es scheint immer so" — 1 times (1.3%)
+   "Ich halte es für" — 1 times (1.3%)
+
+Mistral | Nature=liberale | final comment | Middle (53 samples):
+   "Es sind wichtige Themen" — 2 times (3.8%)
+   "In einzelnen Fragen möchte" — 2 times (3.8%)
+   "Es ist wichtig dass" — 2 times (3.8%)
+
+Mistral | Nature=sehr liberale | final comment | Middle (106 samples):
+   "Ich hoffe dass diese" — 3 times (2.8%)
+   "2" — 2 times (1.9%)
+   "3" — 2 times (1.9%)
+
+DeepSeek | Nature=neutrale | final comment | Middle (14 samples):
+   "Ich lebe in Berlin" — 1 times (7.1%)
+   "Mein Bildungsabschluss entspricht dem" — 1 times (7.1%)
+   "Meine routine täglicher Handlung" — 1 times (7.1%)
+
+DeepSeek | Nature=konservative | final comment | Middle (43 samples):
+   "Wir freuen uns auf" — 3 times (7.0%)
+   "Als 25-jährige conservative deutsche" — 1 times (2.3%)
+   "Ich habe alle Fragen" — 1 times (2.3%)
+
+DeepSeek | Nature=sehr konservative | final comment | Middle (84 samples):
+   "Meine Meinung Nein ich" — 3 times (3.6%)
+   "Meine Meinung Nein als" — 3 times (3.6%)
+   "Wir freuen uns auf" — 2 times (2.4%)
+
+DeepSeek | Nature=liberale | final comment | Middle (11 samples):
+   "Als eine von langen" — 1 times (9.1%)
+   "Mir fällt es positiv" — 1 times (9.1%)
+   "Leider bin ich mit" — 1 times (9.1%)
+
+DeepSeek | Nature=sehr liberale | final comment | Middle (60 samples):
+   "Vielleicht könnte man einige" — 1 times (1.7%)
+   "I appreciate the opportunity" — 1 times (1.7%)
+   "Regarding the questions I" — 1 times (1.7%)
+
+Llama | Education=niedrigem Bildungsabschluss | adoption probe | End (31 samples):
+   "Kann ich Ihnen bei" — 5 times (16.1%)
+   "Wenn du Unterstützung bei" — 2 times (6.5%)
+   "Gibt es etwas anderes" — 2 times (6.5%)
+
+Llama | Education=hohem Bildungsabschluss | adoption probe | End (29 samples):
+   "Jeder Mensch hat das" — 2 times (6.9%)
+   "Bitte beachten Sie dass" — 1 times (3.4%)
+   "Wenn Sie Unterstützung bei" — 1 times (3.4%)
+
+Llama | Education=mittlerem Bildungsabschluss | adoption probe | End (23 samples):
+   "Kann ich Ihnen bei" — 4 times (17.4%)
+   "Ich denke es ist" — 2 times (8.7%)
+   "Es geht mir darum" — 1 times (4.3%)
+
+Gemma | Education=niedrigem Bildungsabschluss | adoption probe | End (30 samples):
+   "Das ist doch alles" — 3 times (10.0%)
+   "Man muss doch nicht" — 2 times (6.7%)
+   "Ist doch klar oder" — 2 times (6.7%)
+
+Gemma | Education=hohem Bildungsabschluss | adoption probe | End (35 samples):
+   "Das ist meine Meinung" — 3 times (8.6%)
+   "Es geht um das" — 2 times (5.7%)
+   "Es ist ein Schritt" — 2 times (5.7%)
+
+Gemma | Education=mittlerem Bildungsabschluss | adoption probe | End (34 samples):
+   "Es ist doch wichtig" — 1 times (2.9%)
+   "Ein gutes Zuhause ist" — 1 times (2.9%)
+   "Die Tradition muss man" — 1 times (2.9%)
+
+Phi | Education=niedrigem Bildungsabschluss | adoption probe | End (31 samples):
+   "Vielfältige Sichtweisen sollten respektvoll" — 1 times (3.2%)
+   "Also hab ich gesagt" — 1 times (3.2%)
+   "Ich bin einfach ein" — 1 times (3.2%)
+
+Phi | Education=hohem Bildungsabschluss | adoption probe | End (29 samples):
+   "Daher finde ich es" — 2 times (6.9%)
+   "Ich respektiere jedoch grundsätzlich" — 2 times (6.9%)
+   "In einer modernen Gesellschaft" — 1 times (3.4%)
+
+Phi | Education=mittlerem Bildungsabschluss | adoption probe | End (39 samples):
+   "Diese Antwort spiegelt eine" — 1 times (2.6%)
+   "Letztendlich ist es doch" — 1 times (2.6%)
+   "Letztendlich geht es darum" — 1 times (2.6%)
+
+Mistral | Education=niedrigem Bildungsabschluss | adoption probe | End (28 samples):
+   "Es ist wichtig dass" — 2 times (7.1%)
+   "Wir leben in einer" — 2 times (7.1%)
+   "Ich glaube auch daran" — 1 times (3.6%)
+
+Mistral | Education=hohem Bildungsabschluss | adoption probe | End (36 samples):
+   "Ich verstehe jedoch dass" — 1 times (2.8%)
+   "Dabei sollten vorrangig die" — 1 times (2.8%)
+   "Für mich ist es" — 1 times (2.8%)
+
+Mistral | Education=mittlerem Bildungsabschluss | adoption probe | End (30 samples):
+   "Ich glaube dass es" — 2 times (6.7%)
+   "Außerdem ist es notwendig" — 1 times (3.3%)
+   "Ich glaube an den" — 1 times (3.3%)
+
+DeepSeek | Education=niedrigem Bildungsabschluss | adoption probe | End (28 samples):
+   "Darüber hinaus mag ich" — 1 times (3.6%)
+   "Insgesamt beruht die Meinung" — 1 times (3.6%)
+   "Meine Meinung rührt daher" — 1 times (3.6%)
+
+DeepSeek | Education=hohem Bildungsabschluss | adoption probe | End (35 samples):
+   "Daher glaube ich dass" — 2 times (5.7%)
+   "Darüber hinaus sehe ich" — 1 times (2.9%)
+   "Mein Engagement mit solchen" — 1 times (2.9%)
+
+DeepSeek | Education=mittlerem Bildungsabschluss | adoption probe | End (33 samples):
+   "Ich unterstütze die Rechte" — 1 times (3.0%)
+   "Somit boxt er anhand" — 1 times (3.0%)
+   "Meine Meinung reflektiert daher" — 1 times (3.0%)
+
+Llama | Education=niedrigem Bildungsabschluss | discrimination | End (29 samples):
+   "Also für mich ist" — 2 times (6.9%)
+   "Das Problem ist nur" — 1 times (3.4%)
+   "Es ist nicht mehr" — 1 times (3.4%)
+
+Llama | Education=hohem Bildungsabschluss | discrimination | End (30 samples):
+   "Wir sollten uns bemühen" — 2 times (6.7%)
+   "Nein das ist ein" — 1 times (3.3%)
+   "Ich bin überzeugt dass" — 1 times (3.3%)
+
+Llama | Education=mittlerem Bildungsabschluss | discrimination | End (21 samples):
+   "Die Gleichberechtigung aller Menschen" — 1 times (4.8%)
+   "Ich denke wir sollten" — 1 times (4.8%)
+   "Wir sollten alle für" — 1 times (4.8%)
+
+Gemma | Education=niedrigem Bildungsabschluss | discrimination | End (30 samples):
+   "Das ist doch logisch" — 1 times (3.3%)
+   "Ich finde man sollte" — 1 times (3.3%)
+   "Man muss ja auch" — 1 times (3.3%)
+
+Gemma | Education=hohem Bildungsabschluss | discrimination | End (35 samples):
+   "Ich hoffe das ist" — 3 times (8.6%)
+   "Es ist eine Frage" — 2 times (5.7%)
+   "Die Diskussion darüber ist" — 1 times (2.9%)
+
+Gemma | Education=mittlerem Bildungsabschluss | discrimination | End (34 samples):
+   "Man muss das mit" — 1 times (2.9%)
+   "Man muss ja auch" — 1 times (2.9%)
+   "Ich bleibe dabei Deutschland" — 1 times (2.9%)
+
+Phi | Education=niedrigem Bildungsabschluss | discrimination | End (31 samples):
+   "Also ja das ist" — 2 times (6.5%)
+   "Es ist wichtig sich" — 1 times (3.2%)
+   "Wichtig ist halt dass" — 1 times (3.2%)
+
+Phi | Education=hohem Bildungsabschluss | discrimination | End (29 samples):
+   "Nur so können wir" — 2 times (6.9%)
+   "Insgesamt sehe ich die" — 1 times (3.4%)
+   "Insgesamt bleibt mir daher" — 1 times (3.4%)
+
+Phi | Education=mittlerem Bildungsabschluss | discrimination | End (39 samples):
+   "Es ist wichtig dass" — 4 times (10.3%)
+   "Nur so können wir" — 3 times (7.7%)
+   "Jeder Einzelne kann dazu" — 2 times (5.1%)
+
+Mistral | Education=niedrigem Bildungsabschluss | discrimination | End (30 samples):
+   "Es muss eine respektvolle" — 1 times (3.3%)
+   "Es sollte kein Platz" — 1 times (3.3%)
+   "Es muss weitergehende Bemühungen" — 1 times (3.3%)
+
+Mistral | Education=hohem Bildungsabschluss | discrimination | End (37 samples):
+   "Es ist notwendig dass" — 2 times (5.4%)
+   "Es muss weiterhin Bemühungen" — 2 times (5.4%)
+   "Es muss eine ernsthafte" — 1 times (2.7%)
+
+Mistral | Education=mittlerem Bildungsabschluss | discrimination | End (30 samples):
+   "Wir müssen uns dafür" — 1 times (3.3%)
+   "Diskriminierung ist ein Problem" — 1 times (3.3%)
+   "Es ist notwendig umfassende" — 1 times (3.3%)
+
+DeepSeek | Education=niedrigem Bildungsabschluss | discrimination | End (29 samples):
+   "Es ist wichtig dass" — 2 times (6.9%)
+   "Vielleicht ist der Weg2" — 1 times (3.4%)
+   "Zu veranlassen Es ist" — 1 times (3.4%)
+
+DeepSeek | Education=hohem Bildungsabschluss | discrimination | End (33 samples):
+   "Es ist wichtig dass" — 2 times (6.1%)
+   "Dennoch ist die Gesellschaft" — 2 times (6.1%)
+   "Eine aus образ借ing Wissen" — 1 times (3.0%)
+
+DeepSeek | Education=mittlerem Bildungsabschluss | discrimination | End (33 samples):
+   "Insgesamt handelt es sich" — 2 times (6.1%)
+   "Denk aber daran dass" — 1 times (3.0%)
+   "Denkbar ist dass manche" — 1 times (3.0%)
+
+Llama | Education=niedrigem Bildungsabschluss | final comment | End (43 samples):
+   "Ich denke Sie sollten" — 1 times (2.3%)
+   "Man hört oft nur" — 1 times (2.3%)
+   "Vielen Dank für eure" — 1 times (2.3%)
+
+Llama | Education=hohem Bildungsabschluss | final comment | End (32 samples):
+   "Ansonsten ist die Umfrage" — 2 times (6.2%)
+   "Wir sollten uns mehr" — 1 times (3.1%)
+   "Eine einzige Vorschlag Es" — 1 times (3.1%)
+
+Llama | Education=mittlerem Bildungsabschluss | final comment | End (24 samples):
+   "Aber insgesamt bin ich" — 1 times (4.2%)
+   "Aber ich verstehe ja" — 1 times (4.2%)
+   "Ebenso finde ich es" — 1 times (4.2%)
+
+Gemma | Education=niedrigem Bildungsabschluss | final comment | End (30 samples):
+   "Und bitte keine Fragen" — 1 times (3.3%)
+   "Vielleicht könnte man es" — 1 times (3.3%)
+   "Ach junge Leute die" — 1 times (3.3%)
+
+Gemma | Education=hohem Bildungsabschluss | final comment | End (35 samples):
+   "Ich hoffe die Ergebnisse" — 4 times (11.4%)
+   "Insgesamt aber eine solide" — 2 times (5.7%)
+   "Insgesamt eine gute Basis" — 2 times (5.7%)
+
+Gemma | Education=mittlerem Bildungsabschluss | final comment | End (34 samples):
+   "Die meisten Dinge kann" — 1 times (2.9%)
+   "Hoffen wir die Ergebnisse" — 1 times (2.9%)
+   "Ich hoffe Sie berücksichtigen" — 1 times (2.9%)
+
+Phi | Education=niedrigem Bildungsabschluss | final comment | End (31 samples):
+   "Danke für die Gelegenheit" — 3 times (9.7%)
+   "Danke für diese Möglichkeit" — 2 times (6.5%)
+   "Danke dafür" — 2 times (6.5%)
+
+Phi | Education=hohem Bildungsabschluss | final comment | End (29 samples):
+   "Mit freundlichen Grüßen Ihr" — 4 times (13.8%)
+   "Mit freundlichen Grüßen Name" — 3 times (10.3%)
+   "Vielen Dank nochmals für" — 3 times (10.3%)
+
+Phi | Education=mittlerem Bildungsabschluss | final comment | End (39 samples):
+   "Vielen Dank für die" — 7 times (17.9%)
+   "Mit freundlichen Grüßen Ihr" — 3 times (7.7%)
+   "Danke für die Möglichkeit" — 3 times (7.7%)
+
+Mistral | Education=niedrigem Bildungsabschluss | final comment | End (31 samples):
+   "Vielen Dank für Ihre" — 4 times (12.9%)
+   "Deshalb sollten wir vorsichtig" — 1 times (3.2%)
+   "Es wäre großartig wenn" — 1 times (3.2%)
+
+Mistral | Education=hohem Bildungsabschluss | final comment | End (38 samples):
+   "Vielen Dank für Ihre" — 5 times (13.2%)
+   "Ich hoffe dass diese" — 2 times (5.3%)
+   "Ich hoffe dass die" — 2 times (5.3%)
+
+Mistral | Education=mittlerem Bildungsabschluss | final comment | End (30 samples):
+   "Ich hoffe dass die" — 3 times (10.0%)
+   "Hinsichtlich einzelner Fragen finde" — 1 times (3.3%)
+   "Vielen Dank für die" — 1 times (3.3%)
+
+DeepSeek | Education=niedrigem Bildungsabschluss | final comment | End (27 samples):
+   "Vielen Dank für die" — 2 times (7.4%)
+   "Vielleicht könnte man die" — 1 times (3.7%)
+   "Viel Erfolg im weiteren" — 1 times (3.7%)
+
+DeepSeek | Education=hohem Bildungsabschluss | final comment | End (32 samples):
+   "Vielen Dank für Ihre" — 2 times (6.2%)
+   "Es freut mich meinen" — 1 times (3.1%)
+   "Vielen Dank für das" — 1 times (3.1%)
+
+DeepSeek | Education=mittlerem Bildungsabschluss | final comment | End (31 samples):
+   "Viel Spaß mit der" — 3 times (9.7%)
+   "Vielen Dank für die" — 2 times (6.5%)
+   "Viel Spaß mit Deinen" — 1 times (3.2%)
+
+Llama | Nature=neutrale | adoption probe | End (20 samples):
+   "Kann ich Ihnen bei" — 2 times (10.0%)
+   "Wenn du möchtest kann" — 1 times (5.0%)
+   "Wenn du Unterstützung bei" — 1 times (5.0%)
+
+Llama | Nature=konservative | adoption probe | End (10 samples):
+   "Kann ich Ihnen bei" — 2 times (20.0%)
+   "Gibt es sonst noch" — 1 times (10.0%)
+   "Gibt es einen anderen" — 1 times (10.0%)
+
+Llama | Nature=sehr konservative | adoption probe | End (13 samples):
+   "Kann ich Ihnen bei" — 4 times (30.8%)
+   "Bitte beachten Sie dass" — 1 times (7.7%)
+   "Wenn Sie jedoch ein" — 1 times (7.7%)
+
+Llama | Nature=liberale | adoption probe | End (17 samples):
+   "Jeder Mensch hat das" — 2 times (11.8%)
+   "Es gibt so viele" — 1 times (5.9%)
+   "Es geht mir darum" — 1 times (5.9%)
+
+Llama | Nature=sehr liberale | adoption probe | End (23 samples):
+   "Ich denke es ist" — 2 times (8.7%)
+   "Sie lieben sich doch" — 1 times (4.3%)
+   "Die Adoption ist ein" — 1 times (4.3%)
+
+Gemma | Nature=neutrale | adoption probe | End (21 samples):
+   "Ich finde es ist" — 2 times (9.5%)
+   "Es ist doch wichtig" — 1 times (4.8%)
+   "Ein gutes Zuhause ist" — 1 times (4.8%)
+
+Gemma | Nature=konservative | adoption probe | End (25 samples):
+   "Es ist nicht böse" — 2 times (8.0%)
+   "Das ist einfach so" — 2 times (8.0%)
+   "Es ist ein sehr" — 1 times (4.0%)
+
+Gemma | Nature=sehr konservative | adoption probe | End (13 samples):
+   "Das ist meine Meinung" — 2 times (15.4%)
+   "Es geht um das" — 1 times (7.7%)
+   "Die Tradition muss man" — 1 times (7.7%)
+
+Gemma | Nature=liberale | adoption probe | End (21 samples):
+   "Ist doch klar oder" — 2 times (9.5%)
+   "Ich bin für eine" — 1 times (4.8%)
+   "Und weil Deutschland schon" — 1 times (4.8%)
+
+Gemma | Nature=sehr liberale | adoption probe | End (19 samples):
+   "Ich bin für Vielfalt" — 2 times (10.5%)
+   "Das ist doch menschlich" — 2 times (10.5%)
+   "Aber das mit den" — 1 times (5.3%)
+
+Phi | Nature=neutrale | adoption probe | End (17 samples):
+   "Das ist halt meine" — 1 times (5.9%)
+   "Deshalb habe ich mich" — 1 times (5.9%)
+   "Diese Antwort reflektiert eine" — 1 times (5.9%)
+
+Phi | Nature=konservative | adoption probe | End (21 samples):
+   "In einer modernen Gesellschaft" — 1 times (4.8%)
+   "Diese Antwort spiegelt eine" — 1 times (4.8%)
+   "Daher finde ich es" — 1 times (4.8%)
+
+Phi | Nature=sehr konservative | adoption probe | End (19 samples):
+   "Ich respektiere jedoch grundsätzlich" — 2 times (10.5%)
+   "Ich hoffe dass jeder" — 1 times (5.3%)
+   "Also hab ich gesagt" — 1 times (5.3%)
+
+Phi | Nature=liberale | adoption probe | End (23 samples):
+   "Das finde ich eine" — 1 times (4.3%)
+   "Daher finde ich es" — 1 times (4.3%)
+   "Darüber hinaus stärkt es" — 1 times (4.3%)
+
+Phi | Nature=sehr liberale | adoption probe | End (19 samples):
+   "Vielfältige Sichtweisen sollten respektvoll" — 1 times (5.3%)
+   "Es ist ein Zeichen" — 1 times (5.3%)
+   "Das ist für mich" — 1 times (5.3%)
+
+Mistral | Nature=neutrale | adoption probe | End (14 samples):
+   "Es ist wichtig dass" — 2 times (14.3%)
+   "Es geht mir nicht" — 1 times (7.1%)
+   "Adoption ist ein wichtiger" — 1 times (7.1%)
+
+Mistral | Nature=konservative | adoption probe | End (17 samples):
+   "Ich verstehe jedoch dass" — 1 times (5.9%)
+   "Dabei sollten vorrangig die" — 1 times (5.9%)
+   "Es gibt natürlich Ausnahmen" — 1 times (5.9%)
+
+Mistral | Nature=sehr konservative | adoption probe | End (24 samples):
+   "Ich glaube dass es" — 2 times (8.3%)
+   "Ich glaube auch daran" — 1 times (4.2%)
+   "Ich glaube an den" — 1 times (4.2%)
+
+Mistral | Nature=liberale | adoption probe | End (17 samples):
+   "Es ist fair und" — 1 times (5.9%)
+   "Außerdem ist es notwendig" — 1 times (5.9%)
+   "Gerechte Gesetze und Gesellschaft" — 1 times (5.9%)
+
+Mistral | Nature=sehr liberale | adoption probe | End (22 samples):
+   "Für mich ist es" — 2 times (9.1%)
+   "Es ist wichtig die" — 1 times (4.5%)
+   "Eine solche Haltung ist" — 1 times (4.5%)
+
+DeepSeek | Nature=neutrale | adoption probe | End (9 samples):
+   "Somit ist es logisch" — 1 times (11.1%)
+   "Mein geringes Bildungsabschluss bedeutet" — 1 times (11.1%)
+   "Meine Meinung wird von" — 1 times (11.1%)
+
+DeepSeek | Nature=konservative | adoption probe | End (22 samples):
+   "Mein Engagement mit solchen" — 1 times (4.5%)
+   "Die Frau ist verwirrt" — 1 times (4.5%)
+   "Ich glaube an die" — 1 times (4.5%)
+
+DeepSeek | Nature=sehr konservative | adoption probe | End (25 samples):
+   "Darüber hinaus gibt es" — 2 times (8.0%)
+   "Ich unterstütze die Rechte" — 1 times (4.0%)
+   "Somit boxt er anhand" — 1 times (4.0%)
+
+DeepSeek | Nature=liberale | adoption probe | End (14 samples):
+   "Darüber hinaus sehe ich" — 1 times (7.1%)
+   "In einem multikulturellen Raum" — 1 times (7.1%)
+   "Meine personalische Konzeption des" — 1 times (7.1%)
+
+DeepSeek | Nature=sehr liberale | adoption probe | End (26 samples):
+   "Meine Meinung reflektiert daher" — 1 times (3.8%)
+   "Wir sind alle gleich" — 1 times (3.8%)
+   "Ein positives Indikat für" — 1 times (3.8%)
+
+Llama | Nature=neutrale | discrimination | End (20 samples):
+   "Es ist nicht mehr" — 1 times (5.0%)
+   "Das ist für mich" — 1 times (5.0%)
+   "Aber ich kenne jemanden" — 1 times (5.0%)
+
+Llama | Nature=konservative | discrimination | End (8 samples):
+   "Kann ich Ihnen bei" — 2 times (25.0%)
+   "Wenn du Unterstützung bei" — 1 times (12.5%)
+   "Ich denke wir müssen" — 1 times (12.5%)
+
+Llama | Nature=sehr konservative | discrimination | End (8 samples):
+   "Ich bin überzeugt dass" — 1 times (12.5%)
+   "Ich denke wir sollten" — 1 times (12.5%)
+   "Wenn Sie jedoch mehr" — 1 times (12.5%)
+
+Llama | Nature=liberale | discrimination | End (19 samples):
+   "Also für mich ist" — 1 times (5.3%)
+   "Nein das ist ein" — 1 times (5.3%)
+   "Wir sollten alle für" — 1 times (5.3%)
+
+Llama | Nature=sehr liberale | discrimination | End (25 samples):
+   "Das Problem ist nur" — 1 times (4.0%)
+   "Die Gleichberechtigung aller Menschen" — 1 times (4.0%)
+   "Das ist einfach oder" — 1 times (4.0%)
+
+Gemma | Nature=neutrale | discrimination | End (21 samples):
+   "Ich hoffe das ist" — 2 times (9.5%)
+   "Man muss das mit" — 1 times (4.8%)
+   "Man muss ja auch" — 1 times (4.8%)
+
+Gemma | Nature=konservative | discrimination | End (25 samples):
+   "Und Herausforderungen sollten wir" — 1 times (4.0%)
+   "Man muss ja auch" — 1 times (4.0%)
+   "Ich hoffe das ist" — 1 times (4.0%)
+
+Gemma | Nature=sehr konservative | discrimination | End (13 samples):
+   "Es ist eine Frage" — 1 times (7.7%)
+   "Ich bleibe dabei Deutschland" — 1 times (7.7%)
+   "Es ist eher eine" — 1 times (7.7%)
+
+Gemma | Nature=liberale | discrimination | End (21 samples):
+   "Die Diskussion darüber ist" — 1 times (4.8%)
+   "Ich finde man sollte" — 1 times (4.8%)
+   "Aber Diskriminierung ist eben" — 1 times (4.8%)
+
+Gemma | Nature=sehr liberale | discrimination | End (19 samples):
+   "Das ist doch logisch" — 1 times (5.3%)
+   "Ich persönlich bin dafür" — 1 times (5.3%)
+   "Es ist nicht nur" — 1 times (5.3%)
+
+Phi | Nature=neutrale | discrimination | End (17 samples):
+   "Es ist wichtig dass" — 3 times (17.6%)
+   "Also ja das ist" — 2 times (11.8%)
+   "Insgesamt bin ich der" — 1 times (5.9%)
+
+Phi | Nature=konservative | discrimination | End (21 samples):
+   "Insgesamt sehe ich die" — 1 times (4.8%)
+   "Man muss einfach weiter" — 1 times (4.8%)
+   "Insgesamt bleibt mir daher" — 1 times (4.8%)
+
+Phi | Nature=sehr konservative | discrimination | End (19 samples):
+   "Es bleibt jedoch wichtig" — 2 times (10.5%)
+   "Zusammenfassend würde ich sagen" — 1 times (5.3%)
+   "Wichtig ist halt dass" — 1 times (5.3%)
+
+Phi | Nature=liberale | discrimination | End (23 samples):
+   "Nur so können wir" — 2 times (8.7%)
+   "Diskriminierung ist nicht schön" — 1 times (4.3%)
+   "Es ist unsere Verantwortung" — 1 times (4.3%)
+
+Phi | Nature=sehr liberale | discrimination | End (19 samples):
+   "Nur so können wir" — 2 times (10.5%)
+   "Es ist wichtig sich" — 1 times (5.3%)
+   "Insgesamt bin ich aber" — 1 times (5.3%)
+
+Mistral | Nature=neutrale | discrimination | End (14 samples):
+   "Es ist notwendig umfassende" — 1 times (7.1%)
+   "Dies ist ein Problem" — 1 times (7.1%)
+   "Um dennoch Fortschritte zu" — 1 times (7.1%)
+
+Mistral | Nature=konservative | discrimination | End (19 samples):
+   "Es muss eine ernsthafte" — 1 times (5.3%)
+   "Wir müssen uns bewusst" — 1 times (5.3%)
+   "Es ist notwendig dass" — 1 times (5.3%)
+
+Mistral | Nature=sehr konservative | discrimination | End (23 samples):
+   "Es muss eine respektvolle" — 1 times (4.3%)
+   "Diskriminierung ist ein Problem" — 1 times (4.3%)
+   "Diese Diskriminierung sollte in" — 1 times (4.3%)
+
+Mistral | Nature=liberale | discrimination | End (17 samples):
+   "Es muss weiterhin Bemühungen" — 2 times (11.8%)
+   "Es sollte kein Platz" — 1 times (5.9%)
+   "Wir müssen uns dafür" — 1 times (5.9%)
+
+Mistral | Nature=sehr liberale | discrimination | End (24 samples):
+   "Wir sollten alle dafür" — 2 times (8.3%)
+   "Es muss weitergehende Bemühungen" — 1 times (4.2%)
+   "Es muss einmal endlich" — 1 times (4.2%)
+
+DeepSeek | Nature=neutrale | discrimination | End (11 samples):
+   "Deshalb könnte ich sprechen" — 1 times (9.1%)
+   "Es ist wichtig dass" — 1 times (9.1%)
+   "Wenn es zu Diskriminierung" — 1 times (9.1%)
+
+DeepSeek | Nature=konservative | discrimination | End (21 samples):
+   "Solange manche Aspekte der" — 1 times (4.8%)
+   "Die Thematik ist nicht" — 1 times (4.8%)
+   "Immerhin ist es wichtig" — 1 times (4.8%)
+
+DeepSeek | Nature=sehr konservative | discrimination | End (24 samples):
+   "Denk aber daran dass" — 1 times (4.2%)
+   "Denkbar ist dass manche" — 1 times (4.2%)
+   "Zu veranlassen Es ist" — 1 times (4.2%)
+
+DeepSeek | Nature=liberale | discrimination | End (13 samples):
+   "Eine aus образ借ing Wissen" — 1 times (7.7%)
+   "Es ist entscheidend kontinuierliche" — 1 times (7.7%)
+   "Die continue Schaffung einer" — 1 times (7.7%)
+
+DeepSeek | Nature=sehr liberale | discrimination | End (26 samples):
+   "Die persönliche Freiheit und" — 1 times (3.8%)
+   "Es gibt sowohl kritische" — 1 times (3.8%)
+   "Wenn diegemeinschaftliche Akzeptanz wächst" — 1 times (3.8%)
+
+Llama | Nature=neutrale | final comment | End (22 samples):
+   "Ich denke Sie sollten" — 1 times (4.5%)
+   "Aber ich denke man" — 1 times (4.5%)
+   "Ich persönlich bin keine" — 1 times (4.5%)
+
+Llama | Nature=konservative | final comment | End (15 samples):
+   "Man hört oft nur" — 1 times (6.7%)
+   "Kann nicht einfach jeder" — 1 times (6.7%)
+   "Ich bin froh dass" — 1 times (6.7%)
+
+Llama | Nature=sehr konservative | final comment | End (17 samples):
+   "Wir sollten uns mehr" — 1 times (5.9%)
+   "Das ist das Wichtigste" — 1 times (5.9%)
+   "Wir brauchen vielleicht mehr" — 1 times (5.9%)
+
+Llama | Nature=liberale | final comment | End (19 samples):
+   "Vielen Dank für eure" — 1 times (5.3%)
+   "Eine einzige Vorschlag Es" — 1 times (5.3%)
+   "Ebenso finde ich es" — 1 times (5.3%)
+
+Llama | Nature=sehr liberale | final comment | End (26 samples):
+   "Ich hoffe ihr lasst" — 1 times (3.8%)
+   "Aber insgesamt bin ich" — 1 times (3.8%)
+   "Und was die Klimapolitik" — 1 times (3.8%)
+
+Gemma | Nature=neutrale | final comment | End (21 samples):
+   "Insgesamt aber eine solide" — 2 times (9.5%)
+   "Insgesamt eine gute Basis" — 2 times (9.5%)
+   "Ich hoffe die Ergebnisse" — 2 times (9.5%)
+
+Gemma | Nature=konservative | final comment | End (25 samples):
+   "Ich habe meine Meinung" — 1 times (4.0%)
+   "Ach junge Leute die" — 1 times (4.0%)
+   "Und bitte wenig Buzzwords" — 1 times (4.0%)
+
+Gemma | Nature=sehr konservative | final comment | End (13 samples):
+   "Ich hoffe die Ergebnisse" — 1 times (7.7%)
+   "Ich hoffe Sie berücksichtigen" — 1 times (7.7%)
+   "Ich finde es wichtig" — 1 times (7.7%)
+
+Gemma | Nature=liberale | final comment | End (21 samples):
+   "Und vielleicht noch ein" — 1 times (4.8%)
+   "Vielleicht könnte man es" — 1 times (4.8%)
+   "Aber viel Politik das" — 1 times (4.8%)
+
+Gemma | Nature=sehr liberale | final comment | End (19 samples):
+   "Und bitte keine Fragen" — 1 times (5.3%)
+   "Ich hätte gern mal" — 1 times (5.3%)
+   "Aber grundsätzlich ist es" — 1 times (5.3%)
+
+Phi | Nature=neutrale | final comment | End (17 samples):
+   "Vielen Dank für die" — 2 times (11.8%)
+   "Vielen Dank für das" — 2 times (11.8%)
+   "Gruß und alles Gute" — 1 times (5.9%)
+
+Phi | Nature=konservative | final comment | End (21 samples):
+   "Vielen Dank für die" — 4 times (19.0%)
+   "Mit freundlichen Grüßen Ihr" — 3 times (14.3%)
+   "Ich hoffe meine Kommentare" — 1 times (4.8%)
+
+Phi | Nature=sehr konservative | final comment | End (19 samples):
+   "Gruß Dein Name" — 2 times (10.5%)
+   "Mit freundlichen Grüßen" — 2 times (10.5%)
+   "Mit freundlichen Grüßen Ihr" — 1 times (5.3%)
+
+Phi | Nature=liberale | final comment | End (23 samples):
+   "Alles in allem eine" — 2 times (8.7%)
+   "Danke für die Möglichkeit" — 2 times (8.7%)
+   "Danke dafür" — 1 times (4.3%)
+
+Phi | Nature=sehr liberale | final comment | End (19 samples):
+   "Vielen Dank für die" — 3 times (15.8%)
+   "Vielen Dank für diese" — 2 times (10.5%)
+   "Vielen Dank dafür" — 2 times (10.5%)
+
+Mistral | Nature=neutrale | final comment | End (15 samples):
+   "Vielen Dank für Ihre" — 3 times (20.0%)
+   "Vielen Dank für die" — 2 times (13.3%)
+   "Insgesamt gefallen mir die" — 1 times (6.7%)
+
+Mistral | Nature=konservative | final comment | End (19 samples):
+   "Ich hoffe dass diese" — 2 times (10.5%)
+   "Wünscht es Ihnen etwas" — 1 times (5.3%)
+   "Es wäre auch wünschenswert" — 1 times (5.3%)
+
+Mistral | Nature=sehr konservative | final comment | End (24 samples):
+   "Vielen Dank für Ihre" — 2 times (8.3%)
+   "Ich hoffe dass die" — 2 times (8.3%)
+   "Deshalb sollten wir vorsichtig" — 1 times (4.2%)
+
+Mistral | Nature=liberale | final comment | End (17 samples):
+   "Ich hoffe dass die" — 2 times (11.8%)
+   "Vielen Dank für Ihre" — 2 times (11.8%)
+   "Es wäre großartig wenn" — 1 times (5.9%)
+
+Mistral | Nature=sehr liberale | final comment | End (24 samples):
+   "Vielen Dank für Ihre" — 3 times (12.5%)
+   "Ich hoffe dass die" — 2 times (8.3%)
+   "Ich habe mich gerne" — 1 times (4.2%)
+
+DeepSeek | Nature=neutrale | final comment | End (10 samples):
+   "Mein Interesse ist filigran" — 1 times (10.0%)
+   "Meinutes es gibt Questions" — 1 times (10.0%)
+   "Meine Erfahrungen im alten" — 1 times (10.0%)
+
+DeepSeek | Nature=konservative | final comment | End (21 samples):
+   "Vielen Dank für das" — 1 times (4.8%)
+   "Vielen Dank noch einmal" — 1 times (4.8%)
+   "Lieber freundliche Greeting Deine" — 1 times (4.8%)
+
+DeepSeek | Nature=sehr konservative | final comment | End (24 samples):
+   "Vielen Dank für Ihre" — 2 times (8.3%)
+   "Viel Spaß mit Deinen" — 1 times (4.2%)
+   "Meine Meinungen sind fundiert" — 1 times (4.2%)
+
+DeepSeek | Nature=liberale | final comment | End (12 samples):
+   "Es freut mich meinen" — 1 times (8.3%)
+   "Ich danke Ihnen für" — 1 times (8.3%)
+   "Als alter Mensch mit" — 1 times (8.3%)
+
+DeepSeek | Nature=sehr liberale | final comment | End (23 samples):
+   "Viel Spaß mit der" — 3 times (13.0%)
+   "Vielen Dank für die" — 2 times (8.7%)
+   "Andererseits ist die Umfrage" — 1 times (4.3%)
