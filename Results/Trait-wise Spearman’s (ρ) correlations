@@ -1,0 +1,84 @@
+Llama:
+  adoption_probe:
+    ρ(generation) = 0.002
+    ρ(Gender_og) = 0.163
+    ρ(Education_og) = 0.040
+    ρ(Nature_og) = 0.162
+  discrimination:
+    ρ(generation) = -0.006
+    ρ(Gender_og) = 0.100
+    ρ(Education_og) = 0.060
+    ρ(Nature_og) = 0.151
+  final_comment:
+    ρ(generation) = -0.006
+    ρ(Gender_og) = 0.064
+    ρ(Education_og) = 0.071
+    ρ(Nature_og) = 0.093
+
+Mistral:
+  adoption_probe:
+    ρ(generation) = -0.007
+    ρ(Gender_og) = 0.022
+    ρ(Education_og) = 0.015
+    ρ(Nature_og) = 0.170
+  discrimination:
+    ρ(generation) = 0.030
+    ρ(Gender_og) = 0.001
+    ρ(Education_og) = -0.012
+    ρ(Nature_og) = -0.016
+  final_comment:
+    ρ(generation) = 0.035
+    ρ(Gender_og) = -0.006
+    ρ(Education_og) = 0.022
+    ρ(Nature_og) = 0.079
+
+Gemma:
+  adoption_probe:
+    ρ(generation) = 0.052
+    ρ(Gender_og) = -0.005
+    ρ(Education_og) = 0.135
+    ρ(Nature_og) = 0.210
+  discrimination:
+    ρ(generation) = 0.008
+    ρ(Gender_og) = -0.016
+    ρ(Education_og) = 0.095
+    ρ(Nature_og) = 0.038
+  final_comment:
+    ρ(generation) = 0.065
+    ρ(Gender_og) = -0.007
+    ρ(Education_og) = 0.231
+    ρ(Nature_og) = 0.074
+
+DeepSeek:
+  adoption_probe:
+    ρ(generation) = 0.007
+    ρ(Gender_og) = -0.006
+    ρ(Education_og) = 0.003
+    ρ(Nature_og) = 0.012
+  discrimination:
+    ρ(generation) = 0.027
+    ρ(Gender_og) = 0.028
+    ρ(Education_og) = 0.021
+    ρ(Nature_og) = -0.013
+  final_comment:
+    ρ(generation) = 0.011
+    ρ(Gender_og) = 0.012
+    ρ(Education_og) = 0.015
+    ρ(Nature_og) = 0.009
+
+Phi:
+  adoption_probe:
+    ρ(generation) = 0.022
+    ρ(Gender_og) = -0.000
+    ρ(Education_og) = 0.151
+    ρ(Nature_og) = 0.068
+  discrimination:
+    ρ(generation) = 0.009
+    ρ(Gender_og) = -0.011
+    ρ(Education_og) = 0.249
+    ρ(Nature_og) = 0.059
+  final_comment:
+    ρ(generation) = 0.001
+    ρ(Gender_og) = 0.043
+    ρ(Education_og) = 0.376
+    ρ(Nature_og) = 0.032
