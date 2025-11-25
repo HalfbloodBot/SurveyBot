@@ -1,0 +1,14 @@
+### Similarity Ratio \(R\)
+Higher values indicate stronger within-persona textual homogeneity.
+
+| Source   | Global | Adoption | Discrimination | Final Comment |
+|----------|--------|----------|----------------|----------------|
+| Humans   | 1.080  | 1.086    | **1.180**      | 1.100          |
+| GPT      | 1.137  | **1.269**| 1.053          | 1.221          |
+| Gemini   | **1.144** | 1.157 | 1.177          | **1.129**      |
+| Grok     | 1.093  | 1.204    | 1.078          | 1.128          |
+| Llama    | 1.184  | 1.347    | 1.276          | 1.069          |
+| Mistral  | 0.999  | 1.013    | 0.983          | 1.047          |
+| Gemma    | 1.080  | 1.080    | 1.077          | 1.081          |
+| DeepSeek | 1.045  | 1.097    | 1.016          | 0.951          |
+| Phi      | 1.049  | 1.056    | 1.144          | 1.108          |
